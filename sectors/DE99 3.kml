@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>DE99 3</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.45708119886,52.916054060699999,0 -1.45693167724,52.917610180799997,0 -1.45319505706,52.915661327099997,0 -1.45297552029,52.915152482,0 -1.45326299047,52.9149712257,0 -1.45571419445,52.914651787,0 -1.45708119886,52.916054060699999,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

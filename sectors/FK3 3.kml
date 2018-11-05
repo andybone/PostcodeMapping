@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>FK3 3</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-3.72462974464,56.019575985499998,0 -3.72445354788,56.019511698499997,0 -3.72464203619,56.019303565599998,0 -3.72502255026,56.019378829600001,0 -3.72462974464,56.019575985499998,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

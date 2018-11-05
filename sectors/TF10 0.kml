@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>TF10 0</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-2.44943923569,52.694012415,0 -2.44942831647,52.6940365341,0 -2.44919512445,52.694216894100002,0 -2.44908261918,52.6942457942,0 -2.44757131515,52.693760080300002,0 -2.44770281899,52.693253102299998,0 -2.44842688276,52.693132436399999,0 -2.44917322519,52.693353780899997,0 -2.44943923569,52.694012415,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

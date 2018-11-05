@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>NN16 6</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-0.726276302373,52.396531168899998,0 -0.726205174001,52.396583510200003,0 -0.725084255701,52.3964064659,0 -0.725102894297,52.396299055100002,0 -0.72577517659,52.395575261899999,0 -0.726321438824,52.395534617,0 -0.726276302373,52.396531168899998,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-0.539148288167,52.39686337,0 -0.538998894989,52.397261076500001,0 -0.538411364536,52.396970190200001,0 -0.538272252953,52.396535554400003,0 -0.539148288167,52.39686337,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

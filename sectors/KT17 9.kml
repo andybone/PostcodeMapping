@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>KT17 9</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-0.265341385293,51.333382571500003,0 -0.264771778303,51.333385184299999,0 -0.265382152429,51.332982625699998,0 -0.265635876061,51.332795936099998,0 -0.265785792115,51.332851778799998,0 -0.265869903393,51.333205646300001,0 -0.265866093545,51.333210954899997,0 -0.265559571352,51.333385748600001,0 -0.265341385293,51.333382571500003,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-0.262394765274,51.335634354500002,0 -0.262374376814,51.335636509799997,0 -0.262109250284,51.335428449600002,0 -0.262236741416,51.334991340499997,0 -0.262460049692,51.335019558600003,0 -0.262394765274,51.335634354500002,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

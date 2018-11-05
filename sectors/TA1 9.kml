@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>TA1 9</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-3.11031640849,51.023916261,0 -3.10917387729,51.023098255299999,0 -3.11037658897,51.022989672199998,0 -3.11051388053,51.023292683299999,0 -3.11031640849,51.023916261,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-3.10784837782,51.0211695335,0 -3.10659025591,51.021466978900001,0 -3.10662702036,51.021160836,0 -3.10608750912,51.020774524300002,0 -3.10670133641,51.020710001499999,0 -3.1070450723,51.020611011100002,0 -3.10785253726,51.020951331200003,0 -3.10784837782,51.0211695335,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

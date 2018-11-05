@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>SW18 9</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-0.191566178856,51.457703051599999,0 -0.191528686151,51.457719945299999,0 -0.191055350592,51.457765372200001,0 -0.190674240391,51.4567142617,0 -0.19085114455,51.456663779300001,0 -0.191038175251,51.4567551174,0 -0.191716174868,51.456866062800003,0 -0.192821340194,51.457609276500001,0 -0.191566178856,51.457703051599999,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-0.191527987521,51.448579587300003,0 -0.191455556485,51.448607975500003,0 -0.191085305303,51.448415327500001,0 -0.191527987541,51.4479832237,0 -0.191527987521,51.448579587300003,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

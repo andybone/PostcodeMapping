@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>SE6 9</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-0.021075792813,51.445127063500003,0 -0.0201483207936,51.445154685299997,0 -0.0201536412781,51.444945484199998,0 -0.020632084957,51.444247226,0 -0.0214116710157,51.444578480300002,0 -0.021075792813,51.445127063500003,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-0.0199309874469,51.438729582299999,0 -0.0196224308337,51.438771064900003,0 -0.0192780906912,51.4384109708,0 -0.0199309874852,51.438273521699998,0 -0.0199309874469,51.438729582299999,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

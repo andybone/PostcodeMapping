@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>TA21 1</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-3.22713068415,50.978786021700003,0 -3.22785765825,50.978961112,0 -3.22781135004,50.9792833331,0 -3.22780480877,50.979335706500002,0 -3.22774083553,50.979375666099997,0 -3.22699646234,50.978794858699999,0 -3.22700575919,50.978754377599998,0 -3.22713068415,50.978786021700003,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

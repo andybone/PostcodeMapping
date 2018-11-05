@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>EC3A 1</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-0.0809994874418,51.513374664399997,0 -0.0807351786074,51.5134322404,0 -0.0804157508952,51.513396135900003,0 -0.0803497570142,51.512926653500003,0 -0.0803937487229,51.512917071899999,0 -0.0809963309703,51.513049009500001,0 -0.0809994874418,51.513374664399997,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>HA4 4</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-0.412212905602,51.5750027618,0 -0.4114243721,51.574748224499999,0 -0.411196369358,51.573999186899997,0 -0.411430040123,51.5739110186,0 -0.411984159676,51.574070200100003,0 -0.412212905602,51.5750027618,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

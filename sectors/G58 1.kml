@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>G58 1</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-4.22486059752,55.875379056600003,0 -4.22424622702,55.8754101934,0 -4.22407334661,55.874973076400003,0 -4.2231619225,55.873705553299999,0 -4.22526280045,55.873920420200001,0 -4.22636149406,55.874030334899999,0 -4.22622414314,55.874517129099999,0 -4.22486059752,55.875379056600003,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

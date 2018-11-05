@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>SE11 9</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-0.0984846835181,51.489580113300001,0 -0.0980499402978,51.4895068509,0 -0.0978858857982,51.488863956499998,0 -0.0979447518912,51.488572607599998,0 -0.0979753748245,51.4885277371,0 -0.0983937284064,51.488693896900003,0 -0.0984846835181,51.489580113300001,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

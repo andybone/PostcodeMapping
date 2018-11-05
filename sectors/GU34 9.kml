@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>GU34 9</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-0.976990715981,51.147531262400001,0 -0.976571542523,51.147437122500001,0 -0.976310278044,51.147358559,0 -0.976271694203,51.147319457,0 -0.975975162071,51.146754738200002,0 -0.977280295611,51.146958442,0 -0.976990715981,51.147531262400001,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

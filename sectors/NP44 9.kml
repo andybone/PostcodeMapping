@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>NP44 9</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-3.02415418206,51.654932201800001,0 -3.02299681175,51.655229464500003,0 -3.02279975661,51.655217425099998,0 -3.02231034799,51.654775166,0 -3.02227974004,51.654736747900003,0 -3.02306819635,51.654024955200001,0 -3.02433287385,51.653853414799997,0 -3.02455143362,51.653986401600001,0 -3.02415418206,51.654932201800001,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

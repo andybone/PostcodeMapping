@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>DL7 7</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-1.43441463659,54.350080352399999,0 -1.43274926465,54.349004993199998,0 -1.43275183012,54.348700753,0 -1.43387310049,54.348019938100002,0 -1.43441463659,54.350080352399999,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-1.43443664654,54.337571678899998,0 -1.43405769969,54.337502212399997,0 -1.43380487564,54.337472749299998,0 -1.43372092966,54.337372771299997,0 -1.43373450477,54.337323663200003,0 -1.43420007977,54.337204431300002,0 -1.43436451967,54.336989855500001,0 -1.43469492696,54.336766589900002,0 -1.4353269834,54.337003741399997,0 -1.43443664654,54.337571678899998,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

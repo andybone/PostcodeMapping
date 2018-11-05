@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>AB16 9</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-2.14913255327,57.153696590899997,0 -2.14695057351,57.153944965299999,0 -2.14502697845,57.153441471,0 -2.14908126383,57.153441493499997,0 -2.14913255327,57.153696590899997,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-2.15941248622,57.153970928500001,0 -2.15925658726,57.153995091,0 -2.158527674,57.153665265800001,0 -2.15844346855,57.152572718199998,0 -2.15941248621,57.1524664839,0 -2.15941248622,57.153970928500001,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

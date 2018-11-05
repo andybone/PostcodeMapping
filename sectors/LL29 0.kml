@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>LL29 0</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-3.73027713068,53.298377632200001,0 -3.72592693703,53.299406658899997,0 -3.72699291231,53.298036749,0 -3.72835371086,53.297427515300001,0 -3.72959603522,53.297543049700003,0 -3.73017356243,53.297655881300003,0 -3.73027713068,53.298377632200001,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

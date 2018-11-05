@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>BD23 0</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-2.0269192366,53.958594286900002,0 -2.02470937011,53.958461923199998,0 -2.02522094938,53.957788381500002,0 -2.02546548059,53.9574504586,0 -2.02601726026,53.957387122699998,0 -2.02622643615,53.9576884632,0 -2.0269192366,53.958594286900002,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

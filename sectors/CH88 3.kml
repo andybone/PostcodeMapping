@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>CH88 3</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-2.87594623133,53.195077477300003,0 -2.87409478568,53.19520417,0 -2.8737544189,53.194982980200002,0 -2.87376094898,53.194736165199998,0 -2.87434361886,53.194002985700003,0 -2.87586041595,53.194244594300002,0 -2.87608795946,53.1943376925,0 -2.87594623133,53.195077477300003,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

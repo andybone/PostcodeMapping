@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>BD24 4</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-2.28254352109,54.065157384099997,0 -2.28216858322,54.065216703300003,0 -2.28167422055,54.064910839100001,0 -2.28158834361,54.064448338600002,0 -2.28258643516,54.064026374100003,0 -2.28254352109,54.065157384099997,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

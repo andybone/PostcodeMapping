@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>OX4 9</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.21381023603,51.723218015900002,0 -1.21378486062,51.723281534400002,0 -1.21232303927,51.7231622292,0 -1.21247909968,51.722397975699998,0 -1.21306021956,51.722118665300002,0 -1.21381023603,51.723218015900002,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>TN17 9</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>0.535081708366,51.0962271892,0 0.535102254121,51.096229441699997,0 0.535649156257,51.096083464800003,0 0.535650082646,51.095873731,0 0.535040618865,51.095982807200002,0 0.535081708366,51.0962271892,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

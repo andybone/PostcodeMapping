@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>LS88 8</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.50519181396,53.765392620599997,0 -1.50518975445,53.765409030599997,0 -1.504278364,53.766639031099999,0 -1.50272399284,53.766819273700001,0 -1.49866312095,53.763795612099997,0 -1.49856252138,53.763340619399997,0 -1.50519181396,53.765392620599997,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

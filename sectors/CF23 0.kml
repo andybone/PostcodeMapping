@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>CF23 0</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-3.11751208909,51.501590385699998,0 -3.11835807326,51.501779504799998,0 -3.1173141265,51.502207266699997,0 -3.11604928738,51.502740271699999,0 -3.11569305104,51.502702163499997,0 -3.11549345937,51.502180804399998,0 -3.11695544189,51.501463631299998,0 -3.11751208909,51.501590385699998,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

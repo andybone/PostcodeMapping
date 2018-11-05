@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>WF10 9</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.3915640818,53.717212729,0 -1.38802796159,53.720305662400001,0 -1.3867351808,53.719787077500001,0 -1.38820463956,53.716567879599999,0 -1.3912211173,53.716390998800001,0 -1.3915640818,53.717212729,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

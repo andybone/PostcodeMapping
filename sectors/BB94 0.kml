@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>BB94 0</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-2.13856947107,53.9154771444,0 -2.13830183893,53.915528675399997,0 -2.1373491624,53.915306750100001,0 -2.13728936304,53.915064776599998,0 -2.13829028991,53.914479781799997,0 -2.13942301485,53.914945768599999,0 -2.13856947107,53.9154771444,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

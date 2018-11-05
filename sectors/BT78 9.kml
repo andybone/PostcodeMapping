@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>BT78 9</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-7.29638667264,54.612904388700002,0 -7.29629082196,54.611184434800002,0 -7.29630074179,54.611173885600003,0 -7.2963724125,54.611145432199997,0 -7.29815613377,54.611798728300002,0 -7.29638667264,54.612904388700002,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

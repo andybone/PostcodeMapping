@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>PR11 2</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-2.68593468092,53.797189231899999,0 -2.68501768971,53.800173533500001,0 -2.68318964526,53.799911889900002,0 -2.68053910074,53.798375910300003,0 -2.6840981824,53.796116370500002,0 -2.68528581174,53.795349456399997,0 -2.68637809202,53.7958098565,0 -2.68593468092,53.797189231899999,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

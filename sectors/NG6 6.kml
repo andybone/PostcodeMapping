@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>NG6 6</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.18938287342,52.992441782199997,0 -1.18963375084,52.992867940899998,0 -1.18943248671,52.993119279200002,0 -1.18802912908,52.993454448,0 -1.18759248984,52.993109634299998,0 -1.18778108168,52.9923497029,0 -1.18938287342,52.992441782199997,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

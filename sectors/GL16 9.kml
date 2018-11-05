@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>GL16 9</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-2.61749662933,51.792782249299997,0 -2.61726300851,51.792771436199999,0 -2.6171346054,51.792080183499998,0 -2.61734333823,51.792107479599998,0 -2.61749662933,51.792782249299997,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-2.61846587322,51.792059481599999,0 -2.61795020059,51.791874403199998,0 -2.61858569221,51.791473569799997,0 -2.6194000304,51.791843945399997,0 -2.61941533636,51.791850840499997,0 -2.61934971879,51.792182580199999,0 -2.61902465824,51.792301213,0 -2.61846587322,51.792059481599999,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

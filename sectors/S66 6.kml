@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>S66 6</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.19601351433,53.423991454700001,0 -1.19589876645,53.424013939399998,0 -1.19544292012,53.422701440799997,0 -1.19547294392,53.422682111900002,0 -1.19607699919,53.422835131299998,0 -1.19623288643,53.423010465,0 -1.19601351433,53.423991454700001,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

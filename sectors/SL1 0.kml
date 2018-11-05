@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>SL1 0</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-0.605715931041,51.5115186158,0 -0.604755400592,51.512558863599999,0 -0.603623681774,51.511267156300001,0 -0.604179295284,51.510610183799997,0 -0.604746606325,51.510512169199998,0 -0.605715931041,51.5115186158,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-0.584688813083,51.508796620200002,0 -0.584188208604,51.508809775700001,0 -0.584314695736,51.508136627,0 -0.584425442358,51.508034567499998,0 -0.58456493882,51.507976582,0 -0.584688813083,51.508796620200002,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

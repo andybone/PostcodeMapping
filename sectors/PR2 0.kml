@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>PR2 0</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-2.7090468781,53.754302538899999,0 -2.7090623866,53.754793848699997,0 -2.70877937536,53.755187964500003,0 -2.70845717601,53.755231632300003,0 -2.70597005199,53.754583672199999,0 -2.70624217197,53.754117818300003,0 -2.7090468781,53.754302538899999,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-2.69882947414,53.760066741499998,0 -2.69882522675,53.759683454600001,0 -2.69936081471,53.759438399499999,0 -2.6995413744,53.759810394500001,0 -2.69882947414,53.760066741499998,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

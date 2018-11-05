@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>LA14 9</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-3.22544664645,54.117915341,0 -3.22536486204,54.118038302099997,0 -3.22482695827,54.118365847,0 -3.22475368817,54.118380515,0 -3.22420514604,54.118093415399997,0 -3.2230580728,54.117502609299997,0 -3.22369538017,54.117451469599999,0 -3.22409688916,54.117682427600002,0 -3.22544664645,54.117915341,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-3.22769698808,54.111772084400002,0 -3.22715587836,54.111581682900002,0 -3.22708943343,54.111426140699997,0 -3.22717005756,54.111311172199997,0 -3.22769698809,54.111207127599997,0 -3.22769698808,54.111772084400002,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

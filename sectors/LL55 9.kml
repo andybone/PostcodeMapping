@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>LL55 9</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-4.24890301752,53.140874519500002,0 -4.24724432538,53.141283728600001,0 -4.24602205998,53.141302069,0 -4.24571630044,53.140600128700001,0 -4.2488561012,53.140199467800002,0 -4.24890301752,53.140874519500002,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-4.27785069033,53.140474240099998,0 -4.27721796588,53.140514890699997,0 -4.27718712093,53.140415374100002,0 -4.27779278494,53.139977383500003,0 -4.27816605189,53.140151928800002,0 -4.27785069033,53.140474240099998,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

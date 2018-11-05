@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>HD9 9</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.78594459632,53.571298939199998,0 -1.78497066374,53.571377198699999,0 -1.78474662106,53.571169583100001,0 -1.78479543344,53.571085719,0 -1.78508552686,53.570929446400001,0 -1.78623643263,53.570902261800001,0 -1.78594459632,53.571298939199998,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

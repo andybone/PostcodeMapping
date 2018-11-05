@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>TS8 8</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.2252543774,54.523178028399997,0 -1.2228275639,54.522844845100003,0 -1.22204490872,54.522283823800002,0 -1.22406825739,54.5215464901,0 -1.22496320899,54.521646808200003,0 -1.2252543774,54.523178028399997,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

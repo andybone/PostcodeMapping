@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>BL4 4</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-2.54043575208,53.588416538899999,0 -2.53829094221,53.5889086408,0 -2.53815256594,53.588874363899997,0 -2.53774229498,53.588209991399999,0 -2.540170216,53.588209990599999,0 -2.54043575208,53.588416538899999,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

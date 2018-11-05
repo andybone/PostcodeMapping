@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>FK7 1</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-3.93855908448,56.113313284199997,0 -3.93524382295,56.112948141700002,0 -3.93503888024,56.112926113599997,0 -3.9377210534,56.112240937899998,0 -3.93819008271,56.112845953899999,0 -3.93855908448,56.113313284199997,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-3.91801211027,56.115962338300001,0 -3.91855601149,56.115378034899997,0 -3.91946379315,56.1150883018,0 -3.92019142355,56.1152821043,0 -3.91801211027,56.115962338300001,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>W1A 3</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-0.138780277489,51.517866791099998,0 -0.138668780295,51.517826689,0 -0.138535340849,51.517667846800002,0 -0.13876132671,51.517466880900002,0 -0.139047666251,51.517408573300003,0 -0.139153797733,51.517434381500003,0 -0.139188045742,51.517446629200002,0 -0.139291622447,51.517524779200002,0 -0.138780277489,51.517866791099998,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

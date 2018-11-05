@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>M21 3</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-2.2756140923,53.442404465899997,0 -2.27529556317,53.442420327500002,0 -2.27517143824,53.442182496900003,0 -2.27571921957,53.442182496400001,0 -2.2756140923,53.442404465899997,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

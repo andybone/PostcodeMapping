@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>CM98 1</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>0.515628709543,51.751816778699997,0 0.51654980947,51.752727700299999,0 0.517013685612,51.7526574631,0 0.517590749377,51.751110359400002,0 0.516325372044,51.750680685399999,0 0.515737498032,51.751285767799999,0 0.515628709543,51.751816778699997,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>0.517661290054,51.752854323400001,0 0.519896718864,51.7538376372,0 0.521966780451,51.754028429100003,0 0.523151130456,51.753452687500001,0 0.524411248431,51.750490419499997,0 0.521524007824,51.750378787499997,0 0.520527072432,51.7506073112,0 0.517661290054,51.752854323400001,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

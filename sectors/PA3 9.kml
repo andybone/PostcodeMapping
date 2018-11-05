@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>PA3 9</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-4.41825678056,55.8442245325,0 -4.41791268672,55.844538494699997,0 -4.41808272253,55.844285195099999,0 -4.41819304789,55.844096019200002,0 -4.41820354617,55.843560956499999,0 -4.41822074967,55.843556418,0 -4.41833183509,55.844201127700003,0 -4.41825678056,55.8442245325,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-4.41826503727,55.8456638352,0 -4.41816575331,55.845777524100001,0 -4.41700391212,55.845842166,0 -4.41693581314,55.845494847099999,0 -4.41761584632,55.845304176600003,0 -4.41811412648,55.845382169799997,0 -4.41826503727,55.8456638352,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

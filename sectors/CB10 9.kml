@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>CB10 9</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>0.238229413576,52.023281148700001,0 0.238283474086,52.023291739,0 0.238902802852,52.023166984600003,0 0.238851716143,52.023057645500003,0 0.238767976522,52.022771973300003,0 0.238715835366,52.022764086400002,0 0.238307973779,52.0227849312,0 0.238538502769,52.022963537400003,0 0.238229413576,52.023281148700001,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>0.236451984731,52.019376132700003,0 0.23730959033,52.018391243499998,0 0.23576227269,52.018053161899999,0 0.234936048365,52.018407324400002,0 0.235284322365,52.018698343700002,0 0.236451984731,52.019376132700003,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

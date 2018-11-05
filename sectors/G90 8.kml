@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>G90 8</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-4.24504703229,55.869532734499998,0 -4.24476750237,55.869962199900002,0 -4.24354162223,55.868686479099999,0 -4.24309679604,55.868123923100001,0 -4.24414862703,55.8678764593,0 -4.24487406681,55.868075419299998,0 -4.24504703229,55.869532734499998,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

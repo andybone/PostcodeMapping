@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>NP7 1</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-3.0204947448,51.821791362900001,0 -3.01994971436,51.821899672100002,0 -3.01943468575,51.821928458099997,0 -3.01931489676,51.821821051,0 -3.02053209194,51.821260114700003,0 -3.0204947448,51.821791362900001,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

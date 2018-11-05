@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>DD2 9</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-3.0132758708,56.483316668699999,0 -3.01310491923,56.483457311499997,0 -3.01125648682,56.483205798,0 -3.01168119978,56.482229010200001,0 -3.01236268895,56.482213646399998,0 -3.0132758708,56.483316668699999,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

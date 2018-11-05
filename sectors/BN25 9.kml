@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>BN25 9</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>0.100714582288,50.771626901399998,0 0.100922778816,50.7712985975,0 0.100919108817,50.771295417099999,0 0.10078820218,50.771262490700003,0 0.100578366788,50.7713712929,0 0.100714582288,50.771626901399998,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>PO40 0</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.52546477893,50.683267106199999,0 -1.52500346807,50.6830923148,0 -1.52483170533,50.682825941700003,0 -1.52495255317,50.682621678300002,0 -1.52550504945,50.682684097100001,0 -1.52567825131,50.6828255649,0 -1.52546477893,50.683267106199999,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

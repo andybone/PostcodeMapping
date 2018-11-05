@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>BS16 0</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-2.5273500247,51.478657942,0 -2.5273528877,51.478666726500002,0 -2.52693273425,51.478797571299999,0 -2.52547776322,51.4780943807,0 -2.5253709622,51.477886246499999,0 -2.52533420805,51.477814743700002,0 -2.52705288052,51.477736611600001,0 -2.5273500247,51.478657942,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

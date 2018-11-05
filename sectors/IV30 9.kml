@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>IV30 9</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-3.32101585821,57.647254415900001,0 -3.32083035756,57.6471384715,0 -3.32100745883,57.6468668642,0 -3.32188217594,57.646841368600001,0 -3.32211968846,57.647175085,0 -3.32101585821,57.647254415900001,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

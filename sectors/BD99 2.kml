@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>BD99 2</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-1.7824983307,53.792232223200003,0 -1.78249135239,53.7922557435,0 -1.78184102743,53.792293248,0 -1.78092464908,53.791747719,0 -1.78092481322,53.791746835799998,0 -1.78212916281,53.791577185900003,0 -1.7824983307,53.792232223200003,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-1.78353131391,53.793905064699999,0 -1.78345824307,53.793935727399997,0 -1.78311053468,53.7937833298,0 -1.78296148635,53.793482474299999,0 -1.78388096643,53.792644018399997,0 -1.78432088289,53.792621023199999,0 -1.78353131391,53.793905064699999,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

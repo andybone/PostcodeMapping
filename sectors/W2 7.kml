@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>W2 7</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-0.277051894508,51.501197971499998,0 -0.27696520905,51.501207482700003,0 -0.27587042524,51.500652989199999,0 -0.276034716965,51.500033016899998,0 -0.276243423098,51.499957294399998,0 -0.276922661682,51.500040117600001,0 -0.277051894508,51.501197971499998,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>E4 0</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>0.00813008090767,51.633642489700001,0 0.00825531487321,51.633671848699997,0 0.00857680805878,51.633051689,0 0.008194683997,51.632992013600003,0 0.00807244931727,51.632970373399999,0 0.00732676559939,51.633447209400003,0 0.00735592329603,51.633472263800002,0 0.00813008090767,51.633642489700001,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

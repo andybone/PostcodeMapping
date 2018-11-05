@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>CR8 9</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-0.103413987577,51.3466316815,0 -0.102950772391,51.346647828899997,0 -0.102750791738,51.3462028848,0 -0.102757481228,51.346190678299998,0 -0.103413987569,51.346413516200002,0 -0.103413987577,51.3466316815,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

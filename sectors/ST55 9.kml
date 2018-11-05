@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>ST55 9</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-2.25555996171,53.016922554799997,0 -2.25260932736,53.016951972500003,0 -2.25273433814,53.016581488200003,0 -2.25536445109,53.016581490500002,0 -2.25555996171,53.016922554799997,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-2.22854510675,53.013305271299998,0 -2.22800958687,53.013288658299999,0 -2.2277165139,53.012406242499999,0 -2.22775330582,53.012398642100003,0 -2.2283648903,53.012604878499999,0 -2.22854510675,53.013305271299998,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

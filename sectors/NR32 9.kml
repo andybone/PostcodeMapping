@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>NR32 9</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>1.73252756411,52.479574892700001,0 1.73276232893,52.479782439399997,0 1.73361217035,52.480000263400001,0 1.73389250925,52.479991408499998,0 1.73404354466,52.479031477200003,0 1.73252756411,52.479574892700001,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

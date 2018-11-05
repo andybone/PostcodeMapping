@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>B46 9</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.70598652781,52.498187412900002,0 -1.70574517047,52.498549907799998,0 -1.70438268834,52.498599600799999,0 -1.70434986101,52.4985936641,0 -1.70537408181,52.4980733517,0 -1.70598652781,52.498187412900002,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

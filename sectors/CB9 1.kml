@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>CB9 1</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>0.438176023792,52.082962246400001,0 0.43913693233,52.083457810600002,0 0.439300722146,52.083365835899997,0 0.439415000939,52.082730595900003,0 0.438978740947,52.082607428499998,0 0.438176023792,52.082962246400001,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

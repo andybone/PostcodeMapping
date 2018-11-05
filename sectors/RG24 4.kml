@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>RG24 4</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.10901583642,51.277761816199998,0 -1.10860777321,51.278391050499998,0 -1.10842835174,51.278355857500003,0 -1.10770223478,51.278094206200002,0 -1.10719703452,51.277758338200002,0 -1.10718711877,51.277530073800001,0 -1.10786498808,51.277384400700001,0 -1.10865007434,51.277267154100002,0 -1.10901583642,51.277761816199998,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

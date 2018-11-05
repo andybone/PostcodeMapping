@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>BL11 1</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-2.43305157967,53.5796148819,0 -2.43262087381,53.579597145599998,0 -2.43216015976,53.579434700699998,0 -2.43204820165,53.579301675099998,0 -2.43257204287,53.579097413,0 -2.43305157967,53.5796148819,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-2.42551971603,53.572023436199999,0 -2.42524852016,53.5723388336,0 -2.42444267563,53.572541077899999,0 -2.42371905208,53.572094044700002,0 -2.42383388348,53.5720184901,0 -2.42552049163,53.572018496600002,0 -2.42551971603,53.572023436199999,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

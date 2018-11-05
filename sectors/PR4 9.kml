@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>PR4 9</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-2.87493281691,53.777679950200003,0 -2.87474018952,53.777804294500001,0 -2.87370032799,53.778068514399997,0 -2.87225756808,53.778244050300003,0 -2.8711632837,53.777818861599997,0 -2.87159524952,53.777445783099999,0 -2.87493281691,53.777679950200003,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

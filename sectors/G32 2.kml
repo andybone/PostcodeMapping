@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>G32 2</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-4.16972712687,55.832942336,0 -4.16960390333,55.832961013499997,0 -4.1688094822,55.830813656899998,0 -4.16965069353,55.8301943405,0 -4.17182969947,55.830777774200001,0 -4.16972712687,55.832942336,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

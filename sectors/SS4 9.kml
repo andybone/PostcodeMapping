@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>SS4 9</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>0.709544227389,51.582949114100003,0 0.709781190096,51.583294565099997,0 0.710689492466,51.583248769500003,0 0.710886241976,51.583157308300002,0 0.710328600293,51.582722222500003,0 0.709544227389,51.582949114100003,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>0.706760530849,51.581944497800002,0 0.707344179273,51.582187413,0 0.707596996919,51.582299473799999,0 0.707781153694,51.581989900799996,0 0.707495016458,51.581847844400002,0 0.707244936998,51.581633273500003,0 0.706758067899,51.5818479438,0 0.706760530849,51.581944497800002,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

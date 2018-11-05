@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>TA6 9</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-3.00560532997,51.126403236199998,0 -3.00559979021,51.126422840700002,0 -3.00515911165,51.126711155899997,0 -3.00318281598,51.125615531100003,0 -3.00317905463,51.125443494099997,0 -3.00559526984,51.126331424299998,0 -3.00560532997,51.126403236199998,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

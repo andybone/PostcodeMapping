@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>M34 0</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-2.11284470463,53.455928619,0 -2.11270488819,53.4559970432,0 -2.11158889808,53.455860962599999,0 -2.11148681114,53.455554161899997,0 -2.11148178668,53.455539940800001,0 -2.11288753475,53.455234271,0 -2.11319749737,53.455414946600001,0 -2.11307053494,53.455587356,0 -2.11284470463,53.455928619,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

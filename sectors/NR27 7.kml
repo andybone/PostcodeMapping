@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>NR27 7</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>1.28448622613,52.925317148600001,0 1.28290576986,52.926235400800003,0 1.28643712833,52.9265191024,0 1.28730116147,52.926122724199999,0 1.2853834741,52.925094788499997,0 1.28514364475,52.924911394399999,0 1.28448622613,52.925317148600001,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>1.30082679596,52.930923025299997,0 1.3010338195,52.9312316567,0 1.30113743848,52.9312217035,0 1.3014664082,52.931138007900003,0 1.30185577354,52.930879205499998,0 1.30191083138,52.930824738,0 1.30182151011,52.930685071500001,0 1.30082679596,52.930923025299997,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

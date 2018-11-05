@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>HU17 6</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-0.429384835131,53.841495319800003,0 -0.428935311762,53.841245187299997,0 -0.428360794075,53.841141199500001,0 -0.428463619824,53.8408469994,0 -0.430053654391,53.8404677256,0 -0.430339764405,53.840530675300002,0 -0.430055337566,53.840775084199997,0 -0.429384835131,53.841495319800003,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-0.40126910168,53.840773494799997,0 -0.399525667544,53.8413997583,0 -0.397820231973,53.841108156700002,0 -0.397901775762,53.840899756399999,0 -0.40244579208,53.840087521699999,0 -0.40126910168,53.840773494799997,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

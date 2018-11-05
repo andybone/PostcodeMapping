@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>NE99 1</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-1.61754714891,54.967523400600001,0 -1.61591738352,54.968132379399997,0 -1.61524950037,54.967764700799997,0 -1.61512405862,54.9676266544,0 -1.61566852325,54.9672919753,0 -1.61722877124,54.967344027,0 -1.6174858052,54.967465190799999,0 -1.61754714891,54.967523400600001,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-1.61304660467,54.973131946700001,0 -1.61245706298,54.973130138899997,0 -1.61249167434,54.973045388499997,0 -1.61351773411,54.972698791699997,0 -1.61365093092,54.972843099899997,0 -1.61304660467,54.973131946700001,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

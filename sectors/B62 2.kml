@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>B62 2</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-2.04483002777,52.468609411800003,0 -2.04463094182,52.468502648300003,0 -2.04459826044,52.468187192199998,0 -2.04657938731,52.468132208199997,0 -2.04679994004,52.468903304199998,0 -2.04688563466,52.469181915900002,0 -2.04627922098,52.469386622099996,0 -2.04623663997,52.4693824824,0 -2.04483002777,52.468609411800003,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>HG1 9</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-1.54500373004,53.994992608,0 -1.54465715313,53.994837769599997,0 -1.54560686974,53.994495715699998,0 -1.54576798184,53.994886473599998,0 -1.54581522502,53.9949796768,0 -1.54576612399,53.995066119500002,0 -1.54539496138,53.995176461900002,0 -1.54500373004,53.994992608,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-1.52345034654,54.002874739500001,0 -1.52234689363,54.003014063599998,0 -1.5219310953,54.002498063200001,0 -1.52307076617,54.002339847599998,0 -1.52345034654,54.002874739500001,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

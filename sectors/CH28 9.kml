@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>CH28 9</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-3.11198721965,53.400826242299999,0 -3.1119111,53.400837106300003,0 -3.1116339175,53.400831215099998,0 -3.11144743602,53.400607948599998,0 -3.1121095941,53.400302099400001,0 -3.11225134725,53.400497302399998,0 -3.11198721965,53.400826242299999,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>CT14 4</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>1.40189034147,51.2254525687,0 1.40190992633,51.225472127899998,0 1.40227490145,51.225419876499998,0 1.40236959126,51.224943146900003,0 1.40225133889,51.2249366092,0 1.4013781565,51.224848899599998,0 1.40131001885,51.2249021254,0 1.40189034147,51.2254525687,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

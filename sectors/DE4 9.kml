@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>DE4 9</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-1.55475554921,53.138809848800001,0 -1.55515829531,53.1391350719,0 -1.55378568247,53.139120497900002,0 -1.55369239859,53.138897300799997,0 -1.55371114807,53.138767885699998,0 -1.55475554921,53.138809848800001,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-1.55573558034,53.139737734900002,0 -1.55569676217,53.139778423700001,0 -1.55568890982,53.139786857200001,0 -1.55421393734,53.140132427399998,0 -1.55371033666,53.1396587204,0 -1.55363873334,53.139595225900003,0 -1.55367663076,53.139491708199998,0 -1.55573558034,53.139737734900002,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

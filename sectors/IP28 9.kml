@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>IP28 9</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>0.51947013292,52.347016087199997,0 0.51947479348,52.3470158111,0 0.520269980085,52.346251857799999,0 0.520098701274,52.345614662899997,0 0.519071803275,52.345876068599999,0 0.51947013292,52.347016087199997,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>0.5083460542,52.351668488500003,0 0.509745643108,52.351410060799999,0 0.510674769643,52.351311497700003,0 0.511322702421,52.351145945500001,0 0.510625699098,52.3506995901,0 0.509789144685,52.3511793606,0 0.50958775639,52.350628082500002,0 0.508263667924,52.350752204199999,0 0.5083460542,52.351668488500003,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

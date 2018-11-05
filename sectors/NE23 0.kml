@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>NE23 0</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.60045386693,55.089023592399997,0 -1.6004484654,55.089091995499999,0 -1.59897336408,55.089497693200002,0 -1.59834199755,55.089080766599999,0 -1.59771349409,55.088673846500001,0 -1.59855151092,55.088068470400003,0 -1.5993833832,55.088224267699999,0 -1.59965305649,55.088273015200002,0 -1.60045386693,55.089023592399997,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

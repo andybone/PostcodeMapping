@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>BT36 9</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-5.88745139663,54.685399106799998,0 -5.88713504824,54.686863089200003,0 -5.88700693147,54.687110863599997,0 -5.88504479204,54.686478960499997,0 -5.88391808162,54.685119296300002,0 -5.88330218477,54.6836705483,0 -5.88629065577,54.68456368,0 -5.88745139663,54.685399106799998,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

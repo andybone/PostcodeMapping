@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>PA4 4</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-4.38607389993,55.879805407500001,0 -4.38510919006,55.879898720500002,0 -4.38501223372,55.879693785100002,0 -4.38503843591,55.879606618,0 -4.38593334881,55.879539479899996,0 -4.38607389993,55.879805407500001,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

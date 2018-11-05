@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>SA31 9</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-4.30470114196,51.856068231199998,0 -4.30369046217,51.855961764299998,0 -4.30379583273,51.85586249,0 -4.30469273726,51.855715238499997,0 -4.30484048212,51.855851067499998,0 -4.30470114196,51.856068231199998,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-4.30713143068,51.851254234099997,0 -4.30555648978,51.850851555299997,0 -4.30555649002,51.850018759599998,0 -4.30648001571,51.8500055421,0 -4.30713143068,51.851254234099997,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>DN22 1</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-0.954011354295,53.336132493800001,0 -0.953928029798,53.3356836552,0 -0.955192638014,53.335592497699999,0 -0.95542938339,53.336132495599998,0 -0.955969409687,53.337222085199997,0 -0.955048792213,53.340030821200003,0 -0.954680030227,53.340547256699999,0 -0.954011354295,53.336132493800001,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

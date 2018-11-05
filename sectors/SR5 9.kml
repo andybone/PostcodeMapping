@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>SR5 9</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-1.43606106685,54.864395305400002,0 -1.43472796705,54.863486878400003,0 -1.4346555912,54.860902119400002,0 -1.43504642327,54.860699076099998,0 -1.43721824562,54.863399015500001,0 -1.43719939963,54.8635169207,0 -1.43606106685,54.864395305400002,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-1.42009696421,54.918465469700003,0 -1.42019869444,54.919904190300002,0 -1.41883485013,54.919207456300001,0 -1.41868676783,54.917327253800003,0 -1.41904815291,54.916541942899997,0 -1.41982207238,54.916595596199997,0 -1.42009696421,54.918465469700003,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

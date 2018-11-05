@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>DT10 9</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-2.30044607359,50.9295947811,0 -2.30016081699,50.929240372899997,0 -2.30048622955,50.928774587699998,0 -2.30126010368,50.9286219914,0 -2.3013917248,50.928625777800001,0 -2.30212502838,50.929307406600003,0 -2.30044607359,50.9295947811,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

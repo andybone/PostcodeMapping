@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>WV5 5</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-2.21290066144,52.527835229,0 -2.213249293,52.528420929699998,0 -2.21318498091,52.528625590700003,0 -2.2117545963,52.528643598599999,0 -2.21089488315,52.5279566285,0 -2.21080648144,52.527623415500003,0 -2.21084584537,52.527580440100003,0 -2.21290066144,52.527835229,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

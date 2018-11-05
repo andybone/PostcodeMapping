@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>BS37 0</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-2.43919143347,51.5395096954,0 -2.43899313876,51.539239955299998,0 -2.43878155067,51.538936915199997,0 -2.43930861071,51.537992870099998,0 -2.43989858201,51.537888567400003,0 -2.44096923548,51.5389150333,0 -2.43919143347,51.5395096954,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-2.41365601793,51.539780012900003,0 -2.41352652495,51.539607197099997,0 -2.41392826279,51.539015309100002,0 -2.4145264135,51.539103064800003,0 -2.41454423026,51.539105658799997,0 -2.41439128019,51.539947424200001,0 -2.4141428142,51.539965222799999,0 -2.41374997766,51.539906068299999,0 -2.41365601793,51.539780012900003,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

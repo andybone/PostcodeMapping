@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>RG42 9</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-0.770851437448,51.416831364099998,0 -0.770450983539,51.416854449799999,0 -0.769063176584,51.414878019900002,0 -0.769071427779,51.414830044399999,0 -0.770014986528,51.413766062699999,0 -0.770383871124,51.4137233951,0 -0.770851437448,51.416831364099998,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-0.747867650332,51.417558216300002,0 -0.747344895743,51.41788076,0 -0.747260453153,51.417319516200003,0 -0.747680793169,51.4173764385,0 -0.747867650332,51.417558216300002,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

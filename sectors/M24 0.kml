@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>M24 0</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-2.19802996205,53.547878268,0 -2.1980547776,53.547487611,0 -2.20031446869,53.547166820800001,0 -2.20007505133,53.547708889200003,0 -2.19959542124,53.547912971599999,0 -2.19897842108,53.548184802800002,0 -2.19800022277,53.548196406400002,0 -2.19802996205,53.547878268,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

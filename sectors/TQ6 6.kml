@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>TQ6 6</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-3.58255227002,50.351351388300003,0 -3.58197497359,50.351540728,0 -3.58191705125,50.3515392224,0 -3.58190187427,50.351101193600002,0 -3.5823889537,50.351156555700001,0 -3.58255227002,50.351351388300003,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

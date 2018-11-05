@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>MK42 5</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-0.471646824021,52.132872180100001,0 -0.470247175232,52.133777392200003,0 -0.470145340005,52.133825988799998,0 -0.470104117121,52.133816900100001,0 -0.469115117079,52.132717463600002,0 -0.471717296286,52.132132442900001,0 -0.471646824021,52.132872180100001,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

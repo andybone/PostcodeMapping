@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>OL13 3</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-2.20164754382,53.704320522300002,0 -2.20100177183,53.704321693899999,0 -2.2006899674,53.704282431199999,0 -2.20078587519,53.703930600600003,0 -2.20079531172,53.7039254958,0 -2.20194351392,53.703925496,0 -2.20164754382,53.704320522300002,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-2.20842692916,53.693765491800001,0 -2.20832585489,53.693834683600002,0 -2.20623891415,53.693823704300002,0 -2.20541595248,53.6931765502,0 -2.20576447618,53.6924107926,0 -2.20842692916,53.693765491800001,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

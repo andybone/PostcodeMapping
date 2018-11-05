@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>N3 9</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-0.195201560122,51.602062924099997,0 -0.194910343206,51.602108539500001,0 -0.194410322536,51.601903829199998,0 -0.194184187464,51.6017749329,0 -0.194942060945,51.6012242973,0 -0.195201560122,51.602062924099997,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

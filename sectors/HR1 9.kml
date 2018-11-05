@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>HR1 9</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-2.87515196989,51.944905578,0 -2.87413736459,51.944362123099999,0 -2.87390079362,51.9433779644,0 -2.87484238442,51.944025868200001,0 -2.87544821445,51.944840925199998,0 -2.87582584211,51.945313926300003,0 -2.87515196989,51.944905578,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-2.69581331884,52.053143343199999,0 -2.69576076422,52.053535379499998,0 -2.69504961222,52.053955328199997,0 -2.69292116243,52.053570472700002,0 -2.69277914795,52.053520797200001,0 -2.69363703563,52.0524057728,0 -2.69581331884,52.053143343199999,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-2.70836734761,52.060870288499999,0 -2.70805506748,52.060187899399999,0 -2.70889854222,52.060036607199997,0 -2.71075594323,52.060098769299998,0 -2.71080854113,52.0601205042,0 -2.71085539768,52.060598958600004,0 -2.70836734761,52.060870288499999,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

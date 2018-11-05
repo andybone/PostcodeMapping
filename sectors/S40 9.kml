@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>S40 9</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-1.43535756272,53.235380014699999,0 -1.43509173052,53.235564220100002,0 -1.43340490271,53.235481568799997,0 -1.43348058899,53.235304939499997,0 -1.43535756272,53.235380014699999,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-1.41529154547,53.202273289499999,0 -1.41231272928,53.204930521500003,0 -1.40847769722,53.202936530800002,0 -1.40761396232,53.201630261,0 -1.40735837543,53.200810711099997,0 -1.41312336534,53.199516369500003,0 -1.41529154547,53.202273289499999,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-1.43288770027,53.238414749900002,0 -1.43210348924,53.238574176299998,0 -1.43187519311,53.238075801500003,0 -1.43199319463,53.237342338600001,0 -1.43235006659,53.237315690400003,0 -1.43302260974,53.237563311899997,0 -1.43314471307,53.237801983600001,0 -1.43288770027,53.238414749900002,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

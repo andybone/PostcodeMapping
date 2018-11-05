@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>CT10 9</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>1.43270123842,51.360427554899999,0 1.43276127083,51.360448388,0 1.43360235227,51.360312598299998,0 1.43368357721,51.360197732300001,0 1.43366035199,51.360150587100001,0 1.43351838791,51.3600278141,0 1.43304420081,51.359928258399997,0 1.43270123842,51.360427554899999,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

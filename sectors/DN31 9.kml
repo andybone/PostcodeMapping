@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>DN31 9</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-0.0819770848898,53.5654666752,0 -0.0818537443027,53.565622955899997,0 -0.0812888484361,53.565727940599999,0 -0.0806714938211,53.565388520200003,0 -0.0803983402721,53.565243139499998,0 -0.0815261706456,53.565287556100003,0 -0.0819623917633,53.565261788599997,0 -0.0819770848898,53.5654666752,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-0.0782708631196,53.572317832899998,0 -0.0773662653396,53.572184300099998,0 -0.0774913585271,53.571519504299999,0 -0.0784267811741,53.571791749399999,0 -0.0782708631196,53.572317832899998,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

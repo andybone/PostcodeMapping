@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>NG80 8</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.19756079738,52.929902539099999,0 -1.19507637512,52.930721023899999,0 -1.19157366631,52.930516526600002,0 -1.19167330964,52.929740219300001,0 -1.19460961995,52.928853538699997,0 -1.19753925845,52.928892006300003,0 -1.19818017522,52.929664552399998,0 -1.19756079738,52.929902539099999,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

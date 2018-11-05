@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>DH4 9</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.47099664943,54.843414040600003,0 -1.47087978353,54.843399019700001,0 -1.47175901318,54.842976049,0 -1.47193400481,54.842955041499998,0 -1.47193923669,54.843156587700001,0 -1.47099664943,54.843414040600003,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

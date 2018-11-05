@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>UB18 7</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-0.402156421726,51.501848051800003,0 -0.401689332272,51.500898005400003,0 -0.401436900488,51.499593956,0 -0.40146644345,51.499548732599997,0 -0.403057300909,51.500448451,0 -0.402156421726,51.501848051800003,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

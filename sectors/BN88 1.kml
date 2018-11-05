@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>BN88 1</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-0.133494672582,50.823333113799997,0 -0.132899873882,50.823727632,0 -0.132244840658,50.823123852899997,0 -0.13265334712,50.822519078,0 -0.132968267028,50.822474145100003,0 -0.133494672582,50.823333113799997,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-0.14470425361,50.83662297,0 -0.144271408461,50.837061290299999,0 -0.1436498523,50.837009688899997,0 -0.143222676072,50.8366982354,0 -0.143184784625,50.836001273599997,0 -0.143205112823,50.8359485326,0 -0.144111632091,50.835824113299999,0 -0.14470425361,50.83662297,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>DE1 0</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.46627881218,52.915060512399997,0 -1.46556502533,52.915002552899999,0 -1.46549556987,52.914843095899997,0 -1.46550027958,52.914798453499998,0 -1.46601950196,52.914789797099999,0 -1.46627881218,52.915060512399997,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

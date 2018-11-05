@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>CT9 9</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>1.38202610165,51.387186725500001,0 1.38201953153,51.3873181385,0 1.38240738013,51.387374058500001,0 1.38261060441,51.387175590600002,0 1.38293781586,51.3869049539,0 1.38293054111,51.386853847399998,0 1.38250516377,51.386830451400002,0 1.38229424431,51.387137154100003,0 1.38202610165,51.387186725500001,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>1.38556133618,51.387251561600003,0 1.38565218389,51.387253450700001,0 1.38610724088,51.387090593899998,0 1.38618860894,51.386753383799999,0 1.38616262028,51.3867228947,0 1.38588300024,51.3867058664,0 1.38556133618,51.387251561600003,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

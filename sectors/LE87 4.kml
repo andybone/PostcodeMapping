@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>LE87 4</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.13071660927,52.636733622500003,0 -1.13037011741,52.636167209900002,0 -1.13037065836,52.6361666341,0 -1.13051548345,52.6361111163,0 -1.13135378334,52.6362262675,0 -1.13152197298,52.636477494799998,0 -1.13071660927,52.636733622500003,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

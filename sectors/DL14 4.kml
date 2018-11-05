@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>DL14 4</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.68132690277,54.658628865300003,0 -1.68040766652,54.658324212,0 -1.68032666854,54.657554125200001,0 -1.68203858711,54.656914748799998,0 -1.68231665834,54.6572501088,0 -1.68132690277,54.658628865300003,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

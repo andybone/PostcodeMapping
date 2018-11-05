@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>DE65 9</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.68434400746,52.865090021900002,0 -1.68450335589,52.865211664900002,0 -1.68415009133,52.865604627099998,0 -1.68324738565,52.8658898033,0 -1.68278091666,52.865737899700001,0 -1.68277190782,52.865730253400002,0 -1.68285418526,52.864968772099999,0 -1.68434400746,52.865090021900002,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

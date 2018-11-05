@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>B77 9</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-1.68602518685,52.628340258400002,0 -1.68593471555,52.628468479699997,0 -1.68503348188,52.628616575700001,0 -1.68455935044,52.628116777400002,0 -1.68602518685,52.628340258400002,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-1.69738065092,52.6342395004,0 -1.69737413362,52.634229112100002,0 -1.69815695609,52.634269358799997,0 -1.69816516395,52.634359075399999,0 -1.69823700646,52.6347571855,0 -1.69790659438,52.634737255300003,0 -1.69750673158,52.634457727099999,0 -1.69738065092,52.6342395004,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>WD18 1</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-0.428183590978,51.642262808300003,0 -0.427780825843,51.642794027100003,0 -0.427346550237,51.642781816400003,0 -0.426515011877,51.641711988,0 -0.42672021023,51.641156142600003,0 -0.427450803449,51.641014634199998,0 -0.428183590978,51.642262808300003,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

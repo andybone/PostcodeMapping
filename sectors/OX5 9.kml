@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>OX5 9</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.28766969298,51.823253065499998,0 -1.28747059586,51.823341480300002,0 -1.28725445255,51.8233066564,0 -1.286935232,51.822925154799997,0 -1.28716660504,51.822756291,0 -1.28766969298,51.823253065499998,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

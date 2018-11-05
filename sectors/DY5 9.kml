@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>DY5 9</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-2.11917649469,52.484980024099997,0 -2.11759071871,52.485646509,0 -2.11693213092,52.485204422499997,0 -2.11724783481,52.484812027,0 -2.1174513232,52.484704466300002,0 -2.11917649469,52.484980024099997,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

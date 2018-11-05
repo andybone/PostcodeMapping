@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>BR6 1</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>0.0991069387705,51.3772783119,0 0.0991780900194,51.377295994699999,0 0.0997912874825,51.376795983900003,0 0.0998063096077,51.376709969499998,0 0.0997728291939,51.3766781653,0 0.0991748338221,51.376586912599997,0 0.0991069387705,51.3772783119,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

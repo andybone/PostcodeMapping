@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>SO23 3</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-1.29730588337,51.067591037100001,0 -1.29722345573,51.067743745599998,0 -1.2964003022,51.067547848700002,0 -1.29742098388,51.066855727700002,0 -1.29754450819,51.066880528900001,0 -1.29730588337,51.067591037100001,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-1.31095989861,51.060941328299997,0 -1.31111791423,51.060478545400002,0 -1.31147564715,51.060756588499999,0 -1.31173975765,51.061130582399997,0 -1.31174055082,51.0611313721,0 -1.311283814,51.061491092399997,0 -1.31117378554,51.061517564900001,0 -1.31086216384,51.061106276300002,0 -1.31095989861,51.060941328299997,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

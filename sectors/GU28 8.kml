@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>GU28 8</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-0.608750799443,50.986783063099999,0 -0.608128115205,50.986802517599997,0 -0.60780273077,50.986684522600001,0 -0.608557337918,50.986258829699999,0 -0.608873730484,50.986327147700003,0 -0.608939339367,50.986507649799996,0 -0.608750799443,50.986783063099999,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>TQ12 9</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-3.59507064591,50.5276240309,0 -3.59326943355,50.526779534299997,0 -3.59374993271,50.5263595686,0 -3.59503520855,50.5263342366,0 -3.5954918717,50.526204224300002,0 -3.59647553729,50.526944669599999,0 -3.59642537691,50.527763693700003,0 -3.59510071934,50.528198343600003,0 -3.59507064591,50.5276240309,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-3.59901665528,50.529573295100001,0 -3.5975582766,50.528889597899997,0 -3.59791802147,50.528795057799996,0 -3.59958283371,50.529174990100003,0 -3.59901665528,50.529573295100001,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

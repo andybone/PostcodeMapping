@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>CB8 1</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>0.403930469421,52.243072918199999,0 0.404172799134,52.243252310400003,0 0.404537678583,52.243225860800003,0 0.404644712999,52.2431942009,0 0.404645512589,52.2429197027,0 0.404280050078,52.242842388900002,0 0.403436428396,52.242588064499998,0 0.40334941359,52.242686434299998,0 0.403930469421,52.243072918199999,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

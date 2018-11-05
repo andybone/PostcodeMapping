@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>DY13 3</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-2.28072908534,52.3396353093,0 -2.28078133223,52.339659578099997,0 -2.28084749133,52.339895850600001,0 -2.28079703699,52.339919955600003,0 -2.28011025953,52.339596138799998,0 -2.28014050053,52.339572217099999,0 -2.28030787332,52.339425971399997,0 -2.28072908534,52.3396353093,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

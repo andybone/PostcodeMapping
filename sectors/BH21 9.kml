@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>BH21 9</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-1.98461757407,50.7980477507,0 -1.98428913135,50.7980096398,0 -1.98452069819,50.7977280287,0 -1.985450214,50.797320473500001,0 -1.98552008472,50.797725532100003,0 -1.98461757407,50.7980477507,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-1.98758436849,50.819097814800003,0 -1.98738685086,50.819157779500003,0 -1.98289781795,50.817981937500001,0 -1.98295426896,50.817822100199997,0 -1.98309448701,50.817071815399999,0 -1.98444532174,50.816654564300002,0 -1.98648541854,50.816588570599997,0 -1.98653566428,50.816704168599998,0 -1.98758436849,50.819097814800003,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

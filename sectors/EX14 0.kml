@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>EX14 0</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-3.18759243701,50.799491461499997,0 -3.18703125315,50.799628706100002,0 -3.18698970392,50.799622989699998,0 -3.18679390721,50.7994573832,0 -3.18707966947,50.799262638899997,0 -3.18723236641,50.799151265900001,0 -3.18770270452,50.799444982899999,0 -3.18767933022,50.799471682399997,0 -3.18759243701,50.799491461499997,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

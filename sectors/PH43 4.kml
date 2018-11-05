@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>PH43 4</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-6.35384288548,57.097301852800001,0 -6.1572637844,57.0664741123,0 -6.15144114962,57.063564744799997,0 -6.14837350513,56.981846813499999,0 -6.32047560264,56.919011323600003,0 -6.47407314164,56.9055624748,0 -6.35384288548,57.097301852800001,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

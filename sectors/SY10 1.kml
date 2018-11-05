@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>SY10 1</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-3.03951587921,52.843902153599998,0 -3.0386158772,52.8428417935,0 -3.03809492828,52.8396593119,0 -3.0430766785,52.842850287700003,0 -3.04153070534,52.844007672899998,0 -3.04035068381,52.844912942699999,0 -3.03951587921,52.843902153599998,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

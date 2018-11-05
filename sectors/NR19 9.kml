@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>NR19 9</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>0.958617231325,52.672146682399998,0 0.959012720625,52.673190327900002,0 0.963900600384,52.674137377599997,0 0.966218277003,52.672864667900001,0 0.96680837683,52.669462400199997,0 0.965214456976,52.669602629700002,0 0.958617231325,52.672146682399998,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>0.938725506028,52.682544960100003,0 0.938745988473,52.682576371499998,0 0.939503205619,52.68273987,0 0.939628275168,52.6827363453,0 0.939796961305,52.682546916299998,0 0.93967759189,52.682178027500001,0 0.938725506028,52.682544960100003,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

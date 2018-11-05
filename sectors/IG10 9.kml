@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>IG10 9</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>0.0867160096312,51.647346730700001,0 0.0876463854992,51.647413954900003,0 0.087968020368,51.647023636500002,0 0.0875455440125,51.645827141700003,0 0.0869735292646,51.646001205700003,0 0.0867160096312,51.647346730700001,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

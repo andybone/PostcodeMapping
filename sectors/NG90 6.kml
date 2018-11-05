@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>NG90 6</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.19551196376,52.925819562699999,0 -1.1915571382,52.927490853400002,0 -1.19134497344,52.926896738700002,0 -1.19143632129,52.925474641199997,0 -1.19470314558,52.924279927900002,0 -1.19551196376,52.925819562699999,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

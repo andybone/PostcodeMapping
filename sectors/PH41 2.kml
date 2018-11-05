@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>PH41 2</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-6.58972137654,56.862779820599997,0 -6.47407314164,56.9055624748,0 -6.32047560264,56.919011323600003,0 -6.08578085452,56.829666096099999,0 -6.12174020007,56.803558053499998,0 -6.2641724512,56.777146013900001,0 -6.39918565294,56.761472123700003,0 -6.58972137654,56.862779820599997,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

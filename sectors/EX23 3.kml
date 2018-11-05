@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>EX23 3</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-4.54596584757,50.831478414199999,0 -4.545725345,50.831361918699997,0 -4.54531553913,50.831186164599998,0 -4.54561575054,50.831063020400002,0 -4.54574437216,50.8309984606,0 -4.54598038433,50.8310858384,0 -4.54596584757,50.831478414199999,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

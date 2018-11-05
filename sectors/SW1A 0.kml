@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>SW1A 0</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-0.13697773754,51.481406397800001,0 -0.136423325019,51.481612510799998,0 -0.135846284965,51.4815605971,0 -0.135737809204,51.4805032911,0 -0.13697773754,51.481406397800001,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-0.125755893838,51.500353453599999,0 -0.125617633449,51.500397778200004,0 -0.124419870998,51.500585673,0 -0.123125378148,51.5004875586,0 -0.121308029918,51.500049660099997,0 -0.121134376436,51.499674122899997,0 -0.122632653693,51.497887374400001,0 -0.122742121125,51.4979142452,0 -0.125919921431,51.499441356399998,0 -0.125755893838,51.500353453599999,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

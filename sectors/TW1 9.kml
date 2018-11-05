@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>TW1 9</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-0.325941207862,51.448858266899997,0 -0.325530311672,51.448868293799997,0 -0.324984092863,51.448315577300001,0 -0.324917359487,51.448012561299997,0 -0.325019976269,51.447961094199997,0 -0.325613270601,51.448033140200003,0 -0.326070435416,51.448350114100002,0 -0.325941207862,51.448858266899997,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

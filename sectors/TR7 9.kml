@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>TR7 9</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-5.07987028564,50.414519733,0 -5.07965152944,50.414083077400001,0 -5.07986796935,50.413984382099997,0 -5.08025241597,50.414151914400001,0 -5.08027099124,50.414187929900002,0 -5.07987028564,50.414519733,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

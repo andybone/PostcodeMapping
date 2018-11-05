@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>LE67 0</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-1.37543867538,52.726255036200001,0 -1.37416133069,52.725876804599999,0 -1.37488232618,52.725324931700001,0 -1.37491784763,52.725324676500001,0 -1.37613515566,52.725177472,0 -1.37631666721,52.7252084211,0 -1.37649022621,52.725404602499999,0 -1.37647744875,52.7257834328,0 -1.37572764607,52.726374943400003,0 -1.37543867538,52.726255036200001,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-1.36889267391,52.724391606499999,0 -1.36898593446,52.724879363,0 -1.36737617344,52.724991977,0 -1.36720255305,52.723918728599998,0 -1.36889267391,52.724391606499999,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

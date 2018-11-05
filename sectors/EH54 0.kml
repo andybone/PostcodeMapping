@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>EH54 0</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-3.51659901014,55.888386082399997,0 -3.51521938508,55.886168239299998,0 -3.51700953096,55.8861013812,0 -3.51852518515,55.8863408749,0 -3.51659901014,55.888386082399997,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-3.52917220733,55.891500297900002,0 -3.5287746061,55.890745898399999,0 -3.52993267261,55.890872625199997,0 -3.52999391402,55.891240810500001,0 -3.52917220733,55.891500297900002,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

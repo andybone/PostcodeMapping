@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>PA20 2</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-5.05201606191,55.837490344800003,0 -5.05197240719,55.837514395900001,0 -5.05130421364,55.837099268800003,0 -5.05160684944,55.8370357302,0 -5.05238697562,55.837040085300004,0 -5.05201606191,55.837490344800003,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

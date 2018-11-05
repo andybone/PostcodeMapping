@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>SW2 9</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-0.122274987516,51.454340118700003,0 -0.121936630805,51.454233885800001,0 -0.121947069597,51.4539702537,0 -0.122274987498,51.453896616400002,0 -0.122274987516,51.454340118700003,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-0.117414295271,51.460791626499997,0 -0.117021697241,51.460885820100003,0 -0.116916299523,51.460888105099997,0 -0.116937200959,51.460423195,0 -0.117310090828,51.460385652399999,0 -0.117739487556,51.460634732700001,0 -0.117414295271,51.460791626499997,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

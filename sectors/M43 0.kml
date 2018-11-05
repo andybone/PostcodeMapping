@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>M43 0</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-2.14664456548,53.479497589700003,0 -2.14661080092,53.479491754800002,0 -2.14629459161,53.4791618832,0 -2.14642251682,53.478874059699997,0 -2.14741222098,53.478666073,0 -2.14786115239,53.478781643,0 -2.14836210301,53.479005415499998,0 -2.14835645363,53.479042623,0 -2.14664456548,53.479497589700003,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

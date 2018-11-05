@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>BB5 9</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-2.36281017879,53.753919054500003,0 -2.36260502694,53.754050350699998,0 -2.36203963552,53.754141572199998,0 -2.36219600245,53.753700266599999,0 -2.36282080511,53.7537148969,0 -2.36281017879,53.753919054500003,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-2.36965749926,53.750334223300001,0 -2.36852490293,53.750515771899998,0 -2.3683290209,53.749900608700003,0 -2.36971401229,53.749798649900001,0 -2.36996177231,53.749992317199997,0 -2.3699704772,53.750018238499997,0 -2.36965749926,53.750334223300001,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

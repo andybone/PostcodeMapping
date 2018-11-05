@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>AL1 9</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-0.302390326492,51.748446518400002,0 -0.302180040505,51.749283487699998,0 -0.302122968045,51.749299501599999,0 -0.301854013956,51.749026932500001,0 -0.301275612972,51.7476749693,0 -0.301709059865,51.7471865654,0 -0.302390326492,51.748446518400002,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-0.336275408681,51.753664335300002,0 -0.336165879191,51.753736696499999,0 -0.33554542293,51.753795793599998,0 -0.33531506583,51.753727521800002,0 -0.335135629382,51.753394742300003,0 -0.335333844183,51.753241654500002,0 -0.336094275384,51.753385245499999,0 -0.336275408681,51.753664335300002,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

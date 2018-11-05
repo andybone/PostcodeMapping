@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>OX28 9</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-1.48532915385,51.777220364400002,0 -1.4847380095,51.777493417899997,0 -1.48489621444,51.776860587599998,0 -1.48504187907,51.776866629300002,0 -1.48532915385,51.777220364400002,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-1.47910848799,51.793702785199997,0 -1.4786504567,51.793278312699996,0 -1.47881597858,51.7930415477,0 -1.47891944032,51.7928865919,0 -1.47912448799,51.792921264299999,0 -1.479124488,51.7933425083,0 -1.47951716322,51.793745144799999,0 -1.47911492306,51.793708919700002,0 -1.47910848799,51.793702785199997,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>ST7 9</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-2.25827372042,53.087750238600002,0 -2.25729503516,53.087997800899998,0 -2.25724517887,53.0880021941,0 -2.25663404565,53.0877495314,0 -2.25668745543,53.0873909958,0 -2.25835897305,53.087390990599999,0 -2.25827372042,53.087750238600002,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

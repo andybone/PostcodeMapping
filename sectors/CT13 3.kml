@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>CT13 3</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>1.34064239808,51.274273688,0 1.3406586329,51.274283407799999,0 1.34096876954,51.2742599623,0 1.34107453991,51.2741759727,0 1.34113719645,51.273820106199999,0 1.34097366367,51.273752357600003,0 1.34064239808,51.274273688,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

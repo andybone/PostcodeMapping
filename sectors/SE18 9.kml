@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>SE18 9</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>0.066983271756,51.489617361599997,0 0.0676014143599,51.489722508299998,0 0.0675526815613,51.489407081099998,0 0.0671627746799,51.489281333400001,0 0.0670590187278,51.4890072962,0 0.0670258717952,51.489010922,0 0.0664863065357,51.489108967500002,0 0.0664604387944,51.489407494600002,0 0.0666129076031,51.489459842599999,0 0.066827058635,51.489448082199999,0 0.066983271756,51.489617361599997,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>0.0848605126647,51.491228214099998,0 0.0855084213956,51.490155639699999,0 0.084860512679,51.4902012262,0 0.0848605126647,51.491228214099998,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

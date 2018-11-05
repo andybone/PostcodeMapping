@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>M60 8</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-2.24652948765,53.480452295600003,0 -2.246408,53.4804497947,0 -2.24652948765,53.480195220500001,0 -2.24652948765,53.480452295600003,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-2.24764763515,53.481311859900003,0 -2.24764726233,53.481312332400002,0 -2.24716349672,53.481168888299997,0 -2.24722892138,53.481063548500003,0 -2.24764763515,53.481311859900003,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

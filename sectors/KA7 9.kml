@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>KA7 9</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-4.63369585058,55.462852366900002,0 -4.63344643898,55.4627672401,0 -4.63267766742,55.462866094900001,0 -4.6325765999,55.462836924100003,0 -4.63321142443,55.462377091,0 -4.63356180413,55.462539987699998,0 -4.63360467309,55.462543312699999,0 -4.63369585058,55.462852366900002,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

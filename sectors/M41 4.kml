@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>M41 4</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-2.35182455496,53.448339065299997,0 -2.35192456507,53.448598216199997,0 -2.3515369467,53.448776275500002,0 -2.34992457521,53.448413063499999,0 -2.34984421718,53.448365678800002,0 -2.34985891684,53.448295275100001,0 -2.35182455496,53.448339065299997,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

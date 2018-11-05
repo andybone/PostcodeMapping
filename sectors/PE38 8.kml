@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>PE38 8</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>0.378189999002,52.6013430259,0 0.376745101854,52.600863048500003,0 0.376590085235,52.6013011844,0 0.377740382876,52.601509706500003,0 0.378164368713,52.601604137499997,0 0.378538733098,52.601528006700001,0 0.378491362198,52.601424920200003,0 0.378189999002,52.6013430259,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

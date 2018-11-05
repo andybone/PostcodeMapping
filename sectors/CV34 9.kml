@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>CV34 9</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.60198074585,52.292033923699996,0 -1.60198974815,52.293766895700003,0 -1.59944261409,52.293005750699997,0 -1.59902436499,52.292382780399997,0 -1.59903017507,52.292039602499997,0 -1.60056033003,52.291606668900002,0 -1.60198074585,52.292033923699996,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

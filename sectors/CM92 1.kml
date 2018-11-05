@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>CM92 1</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>0.0598709186703,51.7705495111,0 0.0616742700968,51.770972671599999,0 0.0612757214067,51.7693619016,0 0.0602306491997,51.7687361232,0 0.0597754582397,51.768748043800002,0 0.0591660973805,51.768963652,0 0.0598709186703,51.7705495111,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>WF1 9</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-1.50301323516,53.684338171500002,0 -1.5021295175,53.684537413299999,0 -1.50207039737,53.684501280799999,0 -1.50190835054,53.684302602300001,0 -1.50255805784,53.683968084500002,0 -1.50301323516,53.684338171500002,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-1.50141202566,53.679545337699999,0 -1.50116764459,53.679656944800001,0 -1.50024481206,53.679719115200001,0 -1.50015160164,53.6795299435,0 -1.50141838805,53.679451147400002,0 -1.50141202566,53.679545337699999,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

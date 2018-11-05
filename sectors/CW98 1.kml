@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>CW98 1</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-2.43252360735,53.0896765914,0 -2.43158138158,53.090072057199997,0 -2.430872809,53.09022807,0 -2.43040789042,53.090218736,0 -2.4303218011,53.090166397899999,0 -2.43024666258,53.088978366799999,0 -2.43101673993,53.088703645599999,0 -2.43287293032,53.088175234600001,0 -2.43252360735,53.0896765914,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

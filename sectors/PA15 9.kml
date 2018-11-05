@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>PA15 9</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-4.74154660194,55.9430131919,0 -4.74066375846,55.9420637132,0 -4.74068870398,55.942023881499999,0 -4.74127420929,55.941850848500003,0 -4.74230286485,55.942219234600003,0 -4.74154660194,55.9430131919,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-4.75541384357,55.948925789699999,0 -4.75537986298,55.948924113300002,0 -4.75475996581,55.948710729,0 -4.75484975574,55.948368439,0 -4.75488064733,55.948330965799997,0 -4.75550152638,55.947956914700001,0 -4.7561382753,55.947777243200001,0 -4.75640568239,55.947884829700001,0 -4.75541384357,55.948925789699999,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

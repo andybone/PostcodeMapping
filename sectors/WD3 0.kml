@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>WD3 0</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-0.474712967821,51.6396862275,0 -0.474202630723,51.639660961200001,0 -0.474099753272,51.63950603,0 -0.474485663493,51.639224215399999,0 -0.474640567281,51.639105108300001,0 -0.475156573769,51.6395879007,0 -0.474890988031,51.639698615500002,0 -0.474712967821,51.6396862275,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

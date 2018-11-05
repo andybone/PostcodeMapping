@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>PL31 9</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-4.72054017996,50.470121444199997,0 -4.72038490864,50.470239996099998,0 -4.72009933356,50.4703124937,0 -4.71926886068,50.4703243668,0 -4.71924260616,50.470315049299998,0 -4.71892595166,50.469812024100001,0 -4.71927789536,50.469661267399999,0 -4.72027329906,50.469735425400003,0 -4.72054017996,50.470121444199997,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

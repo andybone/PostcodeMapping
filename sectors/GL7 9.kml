@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>GL7 9</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-1.96102499845,51.702436215,0 -1.96093884513,51.702470238899998,0 -1.95876621908,51.702223318199998,0 -1.95660867737,51.700467881199998,0 -1.95767573391,51.700108549200003,0 -1.96102499845,51.702436215,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-1.96693542865,51.712268358400003,0 -1.96584676212,51.711931592900001,0 -1.96669066792,51.712664345599997,0 -1.96575938013,51.712649158200001,0 -1.96440919179,51.711800652100003,0 -1.96531893202,51.7117592317,0 -1.96674397785,51.711564522099998,0 -1.96693542865,51.712268358400003,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

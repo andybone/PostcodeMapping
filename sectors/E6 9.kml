@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>E6 9</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>0.05740341579,51.525863611399998,0 0.0581106469657,51.526108705399999,0 0.058418852206,51.525833342200002,0 0.0585516870337,51.525726443800004,0 0.058535192654,51.525605894599998,0 0.0578900944604,51.525286224200002,0 0.0578616049106,51.525585537600001,0 0.0574833655145,51.525532389600002,0 0.05740341579,51.525863611399998,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>0.0548176942512,51.533037163700001,0 0.0556261307842,51.533098078499997,0 0.0557076660898,51.532887467899997,0 0.0549265708668,51.532487140800001,0 0.0547254360213,51.532721288700003,0 0.0548176942512,51.533037163700001,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

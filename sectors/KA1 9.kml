@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>KA1 9</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-4.49292906349,55.600534983499998,0 -4.49233566116,55.600638544,0 -4.49115515281,55.599240157799997,0 -4.49286440892,55.597931074900004,0 -4.49318226498,55.598007529699998,0 -4.49329292028,55.598202129800001,0 -4.49292906349,55.600534983499998,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-4.48024096719,55.606449643300003,0 -4.48004469092,55.6064646743,0 -4.47866822033,55.60633179,0 -4.47763985775,55.605695064400003,0 -4.4781671673,55.6052006926,0 -4.47926499432,55.605199377600002,0 -4.48024096719,55.606449643300003,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

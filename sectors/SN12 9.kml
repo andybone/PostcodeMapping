@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>SN12 9</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-2.13965624579,51.373118785099997,0 -2.13942766488,51.373099827200001,0 -2.13955815621,51.372643203199999,0 -2.14036035537,51.3724836345,0 -2.14034069705,51.372671910500003,0 -2.13965624579,51.373118785099997,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

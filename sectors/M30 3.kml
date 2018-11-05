@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>M30 3</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-2.33707025581,53.482829319300002,0 -2.33640594703,53.482999292700001,0 -2.33634225816,53.482989909799997,0 -2.33609369937,53.482866212200001,0 -2.33596357482,53.482726634499997,0 -2.33596823753,53.482704196100002,0 -2.33702898378,53.4827277877,0 -2.33707025581,53.482829319300002,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

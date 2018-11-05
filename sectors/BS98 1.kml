@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>BS98 1</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-2.57448201741,51.458488028200001,0 -2.57448623198,51.458504216400001,0 -2.57408930509,51.458426763399999,0 -2.57361344815,51.458330467499998,0 -2.5736158176,51.458319002899998,0 -2.57448201741,51.458488028200001,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-2.58902107042,51.460056910900001,0 -2.5889581152,51.460041166300002,0 -2.58870031572,51.459938144799999,0 -2.58898528029,51.459413107400003,0 -2.58917766745,51.459395710800003,0 -2.58938631682,51.459473325,0 -2.58902107042,51.460056910900001,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

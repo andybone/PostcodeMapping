@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>GU15 9</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-0.767049877289,51.330858494499999,0 -0.766631987888,51.330858495299999,0 -0.766631987851,51.331303820899997,0 -0.76651683093,51.331383639899997,0 -0.765501895945,51.330660537500002,0 -0.766213883956,51.330530314100002,0 -0.767589178713,51.3302626117,0 -0.767049877289,51.330858494499999,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

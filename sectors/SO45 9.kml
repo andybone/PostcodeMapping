@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>SO45 9</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.3992273898,50.867790855499997,0 -1.39897570376,50.867663116899998,0 -1.39908096594,50.8674890112,0 -1.39999947627,50.866868229399998,0 -1.40019625475,50.867402878599997,0 -1.3992273898,50.867790855499997,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

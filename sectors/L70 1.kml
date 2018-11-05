@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>L70 1</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-2.87926424726,53.349144066,0 -2.87503670052,53.349576970699999,0 -2.87532054101,53.347903509699997,0 -2.87547678997,53.347454839,0 -2.87791094024,53.345901332,0 -2.8826353538,53.346140490099998,0 -2.88256031254,53.346312321100001,0 -2.87926424726,53.349144066,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-2.99159559211,53.399874793800002,0 -2.98909241568,53.400386247199997,0 -2.98880654698,53.399732677800003,0 -2.98936771896,53.399463759200003,0 -2.99121410361,53.399663252700002,0 -2.99159559211,53.399874793800002,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-2.96219264224,53.481314826,0 -2.96261986522,53.481829164799997,0 -2.96258221655,53.481959936499997,0 -2.96037245075,53.482097303300002,0 -2.95951039172,53.481425404200003,0 -2.96040265002,53.480118860300003,0 -2.96219264224,53.481314826,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-2.98327982156,53.4048757005,0 -2.98341897979,53.404189285299999,0 -2.98380215916,53.4043305848,0 -2.98407366085,53.4045145913,0 -2.98327982156,53.4048757005,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

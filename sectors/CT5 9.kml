@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>CT5 9</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>1.03056156994,51.358954823,0 1.03138015768,51.358960218599996,0 1.03194600421,51.358658908800003,0 1.03155427637,51.358158911899999,0 1.03120892125,51.358090538100001,0 1.03083152871,51.3581611782,0 1.03056156994,51.358954823,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

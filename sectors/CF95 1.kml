@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>CF95 1</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-3.17146947875,51.481322491500002,0 -3.17101863789,51.481545891400003,0 -3.17001902732,51.481601640699999,0 -3.16950681333,51.481042538499999,0 -3.17076920328,51.480871820099999,0 -3.17146947875,51.481322491500002,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

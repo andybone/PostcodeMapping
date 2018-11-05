@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>AB23 9</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-2.0966511304,57.185083692799999,0 -2.09403484877,57.184775108499998,0 -2.0947276285,57.184510144500003,0 -2.09569810305,57.184382760600002,0 -2.09635884797,57.184502397099997,0 -2.0966511304,57.185083692799999,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

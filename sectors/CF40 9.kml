@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>CF40 9</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-3.47138236728,51.624208176400003,0 -3.47117790496,51.623610475900001,0 -3.48077251468,51.6133854781,0 -3.4830682817,51.613423391799998,0 -3.48124385756,51.616976817800001,0 -3.47509675809,51.621707018099997,0 -3.47273439404,51.624816407300003,0 -3.47114549755,51.624561166900001,0 -3.47138236728,51.624208176400003,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

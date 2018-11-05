@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>NE17 9</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.8419320469,54.969633116499999,0 -1.83845196885,54.9679486008,0 -1.83862617268,54.967941300600003,0 -1.8425612147,54.969267936199998,0 -1.84248244247,54.969346871399999,0 -1.8419320469,54.969633116499999,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

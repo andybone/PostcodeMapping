@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>CM7 0</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>0.552135459996,51.882725069800003,0 0.553011814319,51.883098906400001,0 0.552867416633,51.882071002499998,0 0.55439596867,51.881369173800003,0 0.553182692052,51.881446514300002,0 0.552717037911,51.882001371,0 0.55216688609,51.881767794399998,0 0.551271880559,51.8818402554,0 0.552135459996,51.882725069800003,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

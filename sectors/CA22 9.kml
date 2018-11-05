@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>CA22 9</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-3.52721344287,54.477700394599999,0 -3.52670445494,54.478049171800002,0 -3.5255761045,54.477889627700002,0 -3.52548907392,54.477684934899997,0 -3.52719737226,54.477627000200002,0 -3.52721344287,54.477700394599999,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

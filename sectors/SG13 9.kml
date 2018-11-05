@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>SG13 9</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-0.0730644472915,51.795919033899999,0 -0.0724889840165,51.796084333499998,0 -0.0723922671787,51.795420217699998,0 -0.0725386914918,51.795299963600002,0 -0.0726547763181,51.795279317,0 -0.0727331648967,51.795303408300001,0 -0.0730644472915,51.795919033899999,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

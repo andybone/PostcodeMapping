@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>W8 9</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-0.198318354142,51.498394772300003,0 -0.198206402305,51.498444616800001,0 -0.19816369012,51.498160459600001,0 -0.19828741122,51.498105457500003,0 -0.198318354142,51.498394772300003,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-0.194823486177,51.502265264099997,0 -0.194282133554,51.502149770199999,0 -0.194286259782,51.501732958799998,0 -0.194947935003,51.501621832600001,0 -0.195411849335,51.501930980099999,0 -0.194823486177,51.502265264099997,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-0.198894756237,51.498537714100003,0 -0.198526261951,51.498493849900001,0 -0.198534368981,51.498312246,0 -0.198788091885,51.498144144699999,0 -0.199104372617,51.4982400269,0 -0.198894756237,51.498537714100003,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

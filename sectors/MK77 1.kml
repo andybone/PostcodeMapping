@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>MK77 1</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-0.819690922205,52.0423070744,0 -0.819381565886,52.042547858200003,0 -0.81860628462,52.0427989927,0 -0.817097158711,52.042419153200001,0 -0.817396985964,52.041688052,0 -0.818505914315,52.041170383699999,0 -0.819690922205,52.0423070744,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

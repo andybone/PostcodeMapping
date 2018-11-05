@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>EH15 9</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-3.11240848185,55.951682852300003,0 -3.11151553454,55.951514187699999,0 -3.11146003618,55.9514160648,0 -3.11154135841,55.951350081199998,0 -3.11201612026,55.951283008300003,0 -3.11240848185,55.951682852300003,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

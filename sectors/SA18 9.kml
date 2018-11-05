@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>SA18 9</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-3.98426277708,51.7923748953,0 -3.98391369575,51.792480008200002,0 -3.98367135367,51.792430751200001,0 -3.98465460724,51.791350461100002,0 -3.98492164136,51.7913597039,0 -3.98426277708,51.7923748953,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

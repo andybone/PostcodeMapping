@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>YO42 9</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-0.777911515779,53.932047984699999,0 -0.776987487963,53.932253423500001,0 -0.776939749342,53.932226481900003,0 -0.776882389834,53.932067117400003,0 -0.777785509506,53.931927337,0 -0.777881863373,53.931940373800003,0 -0.777959453274,53.931991963,0 -0.777911515779,53.932047984699999,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

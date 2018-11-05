@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>NP4 4</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-3.06184752548,51.708796353399997,0 -3.06072016384,51.709123183,0 -3.06055397994,51.709066544599999,0 -3.06198755272,51.707775461200001,0 -3.06249416727,51.708399842200002,0 -3.06184752548,51.708796353399997,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-3.04062361904,51.701475398299998,0 -3.0401145451,51.701507656099999,0 -3.03895297524,51.701196230900003,0 -3.04080468545,51.700600210200001,0 -3.04117229167,51.701052097400002,0 -3.04062361904,51.701475398299998,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

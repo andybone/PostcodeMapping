@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>TN34 9</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>0.575986522244,50.858190600699999,0 0.576822553378,50.858318394699999,0 0.576947727344,50.858261662300002,0 0.577029557018,50.857703135100003,0 0.57700326411,50.857688917,0 0.575767604964,50.8575547648,0 0.575986522244,50.858190600699999,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>0.580935951677,50.856719113099999,0 0.581145866622,50.856735609700003,0 0.581202340544,50.856640948799999,0 0.581148046064,50.856299237199998,0 0.580498409644,50.856143258400003,0 0.580491549203,50.856148154099998,0 0.580529147939,50.856202229,0 0.580935951677,50.856719113099999,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

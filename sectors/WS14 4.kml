@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>WS14 4</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-1.80409256252,52.684969154699999,0 -1.80424272077,52.68542941,0 -1.80224049167,52.6860739432,0 -1.80231280957,52.684982506899999,0 -1.80225845098,52.684674832799999,0 -1.80330892792,52.684844559699997,0 -1.80378665531,52.684793487500002,0 -1.80409256252,52.684969154699999,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-1.82794253398,52.680902516499998,0 -1.8268118498,52.680849481300001,0 -1.82697964415,52.680405096299999,0 -1.82823934203,52.6807644358,0 -1.82794253398,52.680902516499998,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

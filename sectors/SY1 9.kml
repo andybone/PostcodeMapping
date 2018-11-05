@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>SY1 9</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-2.74958684001,52.713214004599998,0 -2.74960928747,52.713480644,0 -2.74805545148,52.713554153600001,0 -2.74784145693,52.713084889199997,0 -2.74905804972,52.713148996400001,0 -2.74958249016,52.713148995499999,0 -2.74958684001,52.713214004599998,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-2.7328053454,52.705055469800001,0 -2.73194665831,52.705809735300001,0 -2.73076162279,52.705530099500002,0 -2.73077860074,52.7052362867,0 -2.73224069642,52.704306339200002,0 -2.73233375235,52.704286016700003,0 -2.7324070859,52.704329304200002,0 -2.7328053454,52.705055469800001,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

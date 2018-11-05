@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>ZE1 9</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.14695961252,60.154569732299997,0 -1.14580161315,60.154602646800001,0 -1.14593455256,60.154358577,0 -1.14739829111,60.154368081699999,0 -1.14734330986,60.154416105599999,0 -1.14695961252,60.154569732299997,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>GU32 9</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-0.907911591722,51.0063117252,0 -0.906306661108,51.003605862100002,0 -0.908677214676,51.003684439200001,0 -0.909220086446,51.004119458799998,0 -0.907911591722,51.0063117252,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-0.938203550476,51.003948624099998,0 -0.938209410305,51.0039624148,0 -0.937737129303,51.003981697599997,0 -0.937563315435,51.003865724,0 -0.937504531329,51.003787487,0 -0.937906579889,51.003710480800002,0 -0.938134593007,51.003822346900002,0 -0.938321319946,51.003815788,0 -0.938203550476,51.003948624099998,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>HA1 9</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-0.329722226545,51.585631815100001,0 -0.329636785284,51.585756709899997,0 -0.329620657822,51.585767002799997,0 -0.329345570977,51.585689882600001,0 -0.329092910259,51.585467629599997,0 -0.329628143386,51.584982569799998,0 -0.329647064663,51.584990091,0 -0.329722226545,51.585631815100001,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

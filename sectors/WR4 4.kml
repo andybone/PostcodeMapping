@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>WR4 4</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-2.22078439149,52.191279829,0 -2.22091880252,52.191206497099998,0 -2.2219454646,52.1910949735,0 -2.22174833727,52.191391853600003,0 -2.22168135787,52.191496443,0 -2.22164468082,52.1915178689,0 -2.22149584046,52.191532933200001,0 -2.2206727132,52.191330536800002,0 -2.22078439149,52.191279829,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

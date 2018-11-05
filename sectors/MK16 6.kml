@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>MK16 6</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-0.705524875526,52.080651675699997,0 -0.705260943306,52.080753257300003,0 -0.703945324092,52.079866755899999,0 -0.704147085373,52.079653188,0 -0.705169372788,52.078510999800002,0 -0.706087379173,52.079834901799998,0 -0.706004306235,52.080470824400003,0 -0.705524875526,52.080651675699997,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

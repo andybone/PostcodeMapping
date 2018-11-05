@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>LE55 7</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.12601161224,52.632857324100002,0 -1.12605383308,52.633249826300002,0 -1.12527254417,52.633569228399999,0 -1.1244058523,52.633390788299998,0 -1.12428094193,52.633295152099997,0 -1.12539824992,52.6325134561,0 -1.12601161224,52.632857324100002,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

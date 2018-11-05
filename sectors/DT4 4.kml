@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>DT4 4</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-2.4557791704,50.609169352199999,0 -2.45575635659,50.609083078899999,0 -2.45602617491,50.608989905599998,0 -2.45616127628,50.608998130499998,0 -2.45626008972,50.609116243599999,0 -2.4557791704,50.609169352199999,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-2.45737450696,50.606785065,0 -2.4573241504,50.607506428599997,0 -2.45688046766,50.607347506399996,0 -2.45618973541,50.606966769400003,0 -2.45686654209,50.606316252600003,0 -2.45736503357,50.606427006700002,0 -2.45809258818,50.606463441,0 -2.45819037478,50.6065841924,0 -2.45819138232,50.606694845200003,0 -2.45737450696,50.606785065,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

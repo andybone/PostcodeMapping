@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>YO90 1</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-1.09007704322,53.959211221700002,0 -1.08998906116,53.959277557900002,0 -1.08890763555,53.959364659800002,0 -1.08792303566,53.958976434900002,0 -1.08794820199,53.9584846423,0 -1.09007704322,53.959211221700002,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-1.08767929824,53.9594664213,0 -1.08642963029,53.9593784769,0 -1.08630801808,53.9591832252,0 -1.0868252798,53.958997811300002,0 -1.08764758392,53.959122493700001,0 -1.08767929824,53.9594664213,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

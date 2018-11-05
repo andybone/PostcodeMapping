@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>L38 4</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-3.05885764009,53.536407424700002,0 -3.05982932943,53.539277518699997,0 -3.05664517942,53.541161585399998,0 -3.05389441472,53.541420936199998,0 -3.04152260617,53.536606937499997,0 -3.0404336241,53.533827725,0 -3.04051624856,53.533751180400003,0 -3.05493496663,53.535399270399999,0 -3.05885764009,53.536407424700002,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

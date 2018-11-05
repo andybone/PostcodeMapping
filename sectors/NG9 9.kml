@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>NG9 9</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-1.21800835888,52.927370422300001,0 -1.21722094755,52.927546334900001,0 -1.21675131029,52.927177200499997,0 -1.21681057657,52.926921634199999,0 -1.21788565706,52.927086085500001,0 -1.21800835888,52.927370422300001,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-1.21895461853,52.927872328100001,0 -1.21851948161,52.926685213900001,0 -1.21873962643,52.926553016900002,0 -1.21939994497,52.926733727600002,0 -1.2199480995,52.927063418800003,0 -1.21895461853,52.927872328100001,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

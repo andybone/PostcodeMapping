@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>NG2 9</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-1.19963136555,52.930224491799997,0 -1.19973742982,52.930303457500003,0 -1.19988118911,52.931342913400002,0 -1.19978526405,52.931461506200002,0 -1.19713839631,52.930909735,0 -1.1980074106,52.930105905600001,0 -1.19963136555,52.930224491799997,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-1.19816410501,52.929944499100003,0 -1.19756079738,52.929902539099999,0 -1.19818017522,52.929664552399998,0 -1.19834844567,52.9297747878,0 -1.19816410501,52.929944499100003,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-1.13490948722,52.938388489300003,0 -1.13464960195,52.938374260499998,0 -1.13490948722,52.938239624300003,0 -1.13490948722,52.938388489300003,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-1.1437559452,52.948368803900003,0 -1.14371717404,52.948357116799997,0 -1.14356933819,52.948016616799997,0 -1.14469463107,52.948075269699999,0 -1.1437559452,52.948368803900003,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

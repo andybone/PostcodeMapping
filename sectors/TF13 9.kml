@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>TF13 9</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-2.44589657028,52.640915771400003,0 -2.44385503841,52.6408150476,0 -2.44378051578,52.640122395399999,0 -2.44516941531,52.639512570800001,0 -2.44525952331,52.639490816600002,0 -2.44579629278,52.639868082699998,0 -2.44589657028,52.640915771400003,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

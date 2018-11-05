@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>HD8 1</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.63080194722,53.587409034499998,0 -1.63125329296,53.587853427699997,0 -1.63100682175,53.588018670700002,0 -1.62905263482,53.588121216099999,0 -1.62858099833,53.5877263414,0 -1.62849956342,53.5868015402,0 -1.6283740527,53.5859223239,0 -1.62966207881,53.586724367499997,0 -1.63080194722,53.587409034499998,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

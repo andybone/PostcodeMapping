@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>CR44 1</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-0.137694137071,51.382429463800001,0 -0.131145837059,51.383000213499997,0 -0.130953772022,51.382594749299997,0 -0.131798795926,51.381736478100002,0 -0.138177274844,51.382066678400001,0 -0.137694137071,51.382429463800001,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

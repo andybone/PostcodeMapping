@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>RG30 9</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-0.99227080845,51.461814046100002,0 -0.992030466823,51.461689246600002,0 -0.990419225506,51.459395603099999,0 -0.991271625026,51.459148129600003,0 -0.991654168491,51.459287419799999,0 -0.99227080845,51.461814046100002,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

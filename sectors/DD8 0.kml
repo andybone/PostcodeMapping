@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>DD8 0</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-2.92314764997,56.635205422799999,0 -2.92113825516,56.635672006699998,0 -2.92105807543,56.634478824200002,0 -2.92314764997,56.635205422799999,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-2.89033646556,56.643685748199999,0 -2.89051556854,56.643406416399998,0 -2.89085515165,56.643436110899998,0 -2.89106942996,56.643676394400003,0 -2.89071833143,56.643743708599999,0 -2.89041706033,56.643916454100001,0 -2.89029587131,56.643744365,0 -2.89033646556,56.643685748199999,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-2.88869717616,56.644306434800001,0 -2.88869853784,56.644322159,0 -2.88862102867,56.644369151699998,0 -2.88834929266,56.644425249500003,0 -2.8878605812,56.644395983199999,0 -2.88780376775,56.644188533300003,0 -2.88822832802,56.643984477399997,0 -2.88869717616,56.644306434800001,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

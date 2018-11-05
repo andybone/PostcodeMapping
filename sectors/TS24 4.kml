@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>TS24 4</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-1.20956229317,54.682025199400002,0 -1.20957442339,54.681957914400002,0 -1.21153222436,54.681037698300003,0 -1.21161585584,54.681046392699997,0 -1.21159225284,54.681414954300003,0 -1.20956229317,54.682025199400002,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-1.18323792771,54.6964973985,0 -1.18285160559,54.696318024699998,0 -1.18306675104,54.696018806399998,0 -1.18376327266,54.696257064299999,0 -1.18323792771,54.6964973985,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-1.21457171166,54.686253946599997,0 -1.21368858823,54.686276537600001,0 -1.21344188248,54.686148242800002,0 -1.21366196369,54.685486501900002,0 -1.21429658502,54.685156620100003,0 -1.21444967644,54.685149036200002,0 -1.21457171166,54.686253946599997,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

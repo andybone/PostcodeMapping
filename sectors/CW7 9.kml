@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>CW7 9</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-2.52148390413,53.194820162200003,0 -2.52144791902,53.195053164699999,0 -2.51934586237,53.195946580799998,0 -2.51830007133,53.196092554,0 -2.52005489337,53.194785804299997,0 -2.52148390413,53.194820162200003,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

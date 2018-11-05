@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>HP5 9</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-0.609034369785,51.716854028100002,0 -0.608978677181,51.716841012400003,0 -0.608194127337,51.716459713,0 -0.608143592163,51.7162352653,0 -0.608633401262,51.716142374,0 -0.609034369785,51.716854028100002,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>L29 6</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-2.9951414083,53.506990488600003,0 -2.99511521259,53.507028835699998,0 -2.98697612298,53.508009426500003,0 -2.98619073632,53.507946551,0 -2.98408784863,53.507462274,0 -2.98625229878,53.501546412099998,0 -2.99062657416,53.503115507899999,0 -2.9951414083,53.506990488600003,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-2.9781537638,53.5047109108,0 -2.97497491878,53.508187766600003,0 -2.97116436378,53.5032629504,0 -2.97292731175,53.502582694300003,0 -2.97296092628,53.502496510900002,0 -2.97523859439,53.501805167500002,0 -2.98225341236,53.501838856900001,0 -2.9781537638,53.5047109108,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

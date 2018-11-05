@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>CO15 9</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>1.15289750052,51.792353645299997,0 1.15311625332,51.792404904800001,0 1.15313450541,51.7924098194,0 1.15379739911,51.792375406600001,0 1.15385705052,51.792353564899997,0 1.15385837685,51.792215220599999,0 1.15340759385,51.7920688122,0 1.15317039406,51.791975699,0 1.15289750052,51.792353645299997,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>1.15762882375,51.800145414299998,0 1.16104268693,51.799715600600003,0 1.16103140615,51.799308788300003,0 1.15925915492,51.798845599099998,0 1.15784081397,51.7992665931,0 1.15762882375,51.800145414299998,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

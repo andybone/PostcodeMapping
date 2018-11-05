@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>TD6 6</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-2.72117091059,55.598826673399998,0 -2.72052626427,55.598879402800002,0 -2.72030198714,55.5985918051,0 -2.72030198714,55.598442550800002,0 -2.72117091059,55.598826673399998,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-2.67492607424,55.577752869299999,0 -2.67490524402,55.57803154,0 -2.67274657592,55.578119683099999,0 -2.67242751217,55.578010356199997,0 -2.67254552231,55.577599190699999,0 -2.67290494786,55.577368489599998,0 -2.67492607424,55.577752869299999,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

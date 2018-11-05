@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>NP20 9</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-2.99826158213,51.591581338700003,0 -2.99802355241,51.5918587444,0 -2.99680223938,51.592148755899998,0 -2.99745490889,51.590942937599998,0 -2.99786172408,51.591085293,0 -2.99826158213,51.591581338700003,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-3.00506751238,51.58913994,0 -3.00492099584,51.589080832599997,0 -3.00582678978,51.587949884099999,0 -3.00650392003,51.5883742161,0 -3.00506751238,51.58913994,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

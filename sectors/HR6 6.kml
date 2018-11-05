@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>HR6 6</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-2.7322392773,52.217443556299997,0 -2.72797299777,52.218423455299998,0 -2.72534375868,52.218080566099999,0 -2.72507613907,52.218003832299999,0 -2.72483408471,52.2175986787,0 -2.72726930725,52.217273021700002,0 -2.7322392773,52.217443556299997,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-2.73718098078,52.226965517,0 -2.73715789066,52.226961761600002,0 -2.73699499638,52.226543232799997,0 -2.7370749685,52.226492859399997,0 -2.73759301658,52.226677937300003,0 -2.73764939939,52.226769249100002,0 -2.73780350688,52.226964452700003,0 -2.73755471866,52.227051278,0 -2.73718098078,52.226965517,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

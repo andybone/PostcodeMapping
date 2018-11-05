@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>BS2 2</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-2.57589129303,51.458787936199997,0 -2.57583268391,51.458862011800001,0 -2.57504801783,51.458708900700003,0 -2.57500203135,51.458589885199999,0 -2.57571171595,51.458167704600001,0 -2.57589129303,51.458787936199997,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

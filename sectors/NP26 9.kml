@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>NP26 9</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-2.76098967483,51.588061922,0 -2.76049497904,51.588380027,0 -2.76018248885,51.588220042499998,0 -2.76018248888,51.587519124300002,0 -2.76051809984,51.587446131900002,0 -2.76098967483,51.588061922,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

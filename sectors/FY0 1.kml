@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>FY0 1</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-3.0088001054,53.754919291599997,0 -3.00853993088,53.755387863700001,0 -3.00798062838,53.755810264,0 -3.00685308645,53.755414918900001,0 -3.0064093197,53.755250558,0 -3.00636091692,53.754617910699999,0 -3.00694581762,53.753965955399998,0 -3.00817739049,53.754120299299998,0 -3.0088001054,53.754919291599997,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

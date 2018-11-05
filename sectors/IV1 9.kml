@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>IV1 9</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-4.22657979625,57.4793855056,0 -4.22586861631,57.479411298099997,0 -4.22586673045,57.479389910899997,0 -4.22623317262,57.479212113,0 -4.22649056265,57.479234266,0 -4.22657979625,57.4793855056,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-4.23446114679,57.474273011199998,0 -4.23445337543,57.474288030700002,0 -4.23197907766,57.4740463766,0 -4.23172000803,57.4739309331,0 -4.23231067165,57.472979386,0 -4.2329137534,57.472863465300001,0 -4.23387270815,57.473051663900002,0 -4.23446114679,57.474273011199998,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

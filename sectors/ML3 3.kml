@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>ML3 3</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-4.03708927844,55.77472223,0 -4.03732838931,55.774125894599997,0 -4.03734716907,55.7741015852,0 -4.03748074657,55.774122842099999,0 -4.03762996857,55.774292784799997,0 -4.03708927844,55.77472223,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

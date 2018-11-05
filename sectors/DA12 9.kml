@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>DA12 9</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>0.368656854139,51.438987714600003,0 0.368775542697,51.4389445857,0 0.368968790233,51.438598823900001,0 0.368955991335,51.4384946439,0 0.368393286719,51.438429237,0 0.368301242151,51.438600770199997,0 0.368656854139,51.438987714600003,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>0.368138967035,51.440203045,0 0.368533733378,51.440461731,0 0.368631556619,51.440465013599997,0 0.368956531445,51.440191947899997,0 0.368975796855,51.440036494399997,0 0.368313014605,51.440036495199998,0 0.368138967035,51.440203045,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>0.373296880629,51.441422228199997,0 0.373527380735,51.441259492599997,0 0.373555281061,51.4410011736,0 0.373336128691,51.440962364199997,0 0.373296880629,51.441422228199997,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

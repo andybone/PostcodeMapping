@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>KA15 9</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-4.6336597681,55.750393545900003,0 -4.63349620442,55.750323448499998,0 -4.63336944851,55.749860015800003,0 -4.63370000682,55.7496421309,0 -4.63374263354,55.749631952100003,0 -4.63399312205,55.749889855200003,0 -4.6336597681,55.750393545900003,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>SW8 9</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-0.130365487479,51.476007077600002,0 -0.13018736823,51.475971679799997,0 -0.129864555089,51.475515516800002,0 -0.129982415687,51.475297889300002,0 -0.130365487496,51.475412945,0 -0.130365487479,51.476007077600002,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

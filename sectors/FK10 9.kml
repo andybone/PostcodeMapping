@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>FK10 9</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-3.79589527296,56.119797163299999,0 -3.79413746985,56.119728354800003,0 -3.7939106159,56.118649824199998,0 -3.79440210004,56.118517453099997,0 -3.79608669092,56.118924953799997,0 -3.79589527296,56.119797163299999,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-3.79419519676,56.1128658055,0 -3.79447821242,56.111966137400003,0 -3.7955548102,56.112207667600003,0 -3.79560055309,56.112280838300002,0 -3.79419519676,56.1128658055,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

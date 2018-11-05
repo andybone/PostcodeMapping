@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>PE36 9</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>0.488055764115,52.934548061800001,0 0.48778574918,52.934889269,0 0.48793434083,52.934954316700001,0 0.48855402429,52.935083369600001,0 0.488798276238,52.934931652400003,0 0.488969322549,52.934414659799998,0 0.488055764115,52.934548061800001,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

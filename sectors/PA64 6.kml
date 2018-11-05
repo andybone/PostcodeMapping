@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>PA64 6</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-5.74899988895,56.444086490099998,0 -5.61472222175,56.4625044597,0 -5.58865109965,56.443677105,0 -5.62426302895,56.397228676300003,0 -5.70384842825,56.410228855600003,0 -5.74899988895,56.444086490099998,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

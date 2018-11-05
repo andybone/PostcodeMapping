@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>OX12 2</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.42742488775,51.588433086,0 -1.42704543341,51.588326779100001,0 -1.42735570115,51.588003535799999,0 -1.42737844032,51.587978840200002,0 -1.42745530928,51.587937640699998,0 -1.42783519677,51.587923881400002,0 -1.42796152563,51.588240151900003,0 -1.42747607674,51.588448680799999,0 -1.42742488775,51.588433086,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

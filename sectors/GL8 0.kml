@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>GL8 0</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-2.15890846426,51.636787636500003,0 -2.15886367108,51.636993451199999,0 -2.15839138036,51.636835880299998,0 -2.15831778384,51.636663587199997,0 -2.15855012201,51.636440756299997,0 -2.15871631546,51.636279378799998,0 -2.1590329999,51.636296917,0 -2.15890846426,51.636787636500003,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

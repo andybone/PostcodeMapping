@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>RM14 9</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>0.246476308985,51.5527198184,0 0.247042069647,51.552541979,0 0.247334079474,51.551815226199999,0 0.24724391727,51.5517829,0 0.246670605007,51.551700379899998,0 0.246476308985,51.5527198184,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

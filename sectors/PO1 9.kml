@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>PO1 9</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.08786669598,50.7994130254,0 -1.08776127177,50.799407196899999,0 -1.08765683819,50.799191711100001,0 -1.08785346282,50.798841137700002,0 -1.08930569468,50.7986311238,0 -1.08932276908,50.798668726199999,0 -1.08786669598,50.7994130254,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

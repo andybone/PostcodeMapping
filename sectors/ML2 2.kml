@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>ML2 2</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-3.94715100611,55.773950866500002,0 -3.94527367106,55.773421643900001,0 -3.94526480649,55.7734052048,0 -3.94535072234,55.772922388799998,0 -3.94712069054,55.771602095299997,0 -3.94950227928,55.771460624900001,0 -3.94715100611,55.773950866500002,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

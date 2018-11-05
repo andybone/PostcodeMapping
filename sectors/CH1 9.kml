@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>CH1 9</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-2.89332851686,53.191960577499998,0 -2.89203450872,53.192015547300002,0 -2.89177099072,53.191940657,0 -2.89177897735,53.191928167900002,0 -2.89299625065,53.191684239700002,0 -2.89290709054,53.191595119399999,0 -2.89330732003,53.191179339900003,0 -2.89412636521,53.192047779600003,0 -2.89360630607,53.192019785,0 -2.89332851686,53.191960577499998,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-2.48699749555,53.1925509995,0 -2.48377326472,53.192099538199997,0 -2.48536699933,53.191481991300002,0 -2.48699749555,53.1925509995,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-2.88554580432,53.197941731100002,0 -2.8852134014,53.198545065300003,0 -2.8837821413,53.198475398299998,0 -2.88452692131,53.1977835004,0 -2.88557320942,53.197733190500003,0 -2.88554580432,53.197941731100002,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

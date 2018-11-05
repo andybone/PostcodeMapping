@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>M35 5</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-2.15159978658,53.510687013800002,0 -2.15172048239,53.510536130799998,0 -2.15219394445,53.510429163200001,0 -2.15294404859,53.5105124205,0 -2.15300433715,53.510749401299996,0 -2.1530685034,53.510951747699998,0 -2.15249190839,53.5110314657,0 -2.15154959861,53.510747715599997,0 -2.15159978658,53.510687013800002,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>EX32 2</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-4.06596162055,51.081822021900003,0 -4.06517785257,51.081699545900001,0 -4.06745597637,51.0793165324,0 -4.07166153941,51.079539850099998,0 -4.0715400293,51.0798506561,0 -4.06981976267,51.080617920100003,0 -4.06596162055,51.081822021900003,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-4.05641089911,51.080058793200003,0 -4.05634910471,51.080388160299997,0 -4.05602563865,51.080499664199998,0 -4.05569742557,51.079750853100002,0 -4.05618785617,51.079836356900003,0 -4.05641089911,51.080058793200003,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-4.05545573485,51.080513061300003,0 -4.05480821485,51.080467790599997,0 -4.05479239889,51.080455223100003,0 -4.05466177583,51.080227829800002,0 -4.05531149383,51.079521734499998,0 -4.05563406049,51.079738470300001,0 -4.05545573485,51.080513061300003,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

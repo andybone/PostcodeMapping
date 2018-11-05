@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>BN6 0</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-0.142196112264,50.924638287599997,0 -0.142008761395,50.924794730599999,0 -0.141923388433,50.92467374,0 -0.14185191559,50.9245771625,0 -0.142271695628,50.923556647200002,0 -0.142390279564,50.923629288800001,0 -0.142569237079,50.923735458,0 -0.142196112264,50.924638287599997,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

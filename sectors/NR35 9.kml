@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>NR35 9</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>1.43381398157,52.456896383100002,0 1.43395654863,52.457158034800003,0 1.43396100632,52.457161244300003,0 1.43434834961,52.457117615,0 1.43478065403,52.456784113799998,0 1.43450453349,52.4566063822,0 1.43440157941,52.456629434699998,0 1.43366347199,52.456649836499999,0 1.43381398157,52.456896383100002,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

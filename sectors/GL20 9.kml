@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>GL20 9</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-2.12662049226,52.003350844499998,0 -2.1266936888,52.003721711200001,0 -2.12607001047,52.004211771199998,0 -2.12541458049,52.004010345300003,0 -2.12503060676,52.003189653900002,0 -2.1261634873,52.002840926099999,0 -2.12662049226,52.003350844499998,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-2.16478001923,51.986844081199997,0 -2.16390013882,51.987319812300001,0 -2.16364715344,51.986833724199997,0 -2.16364609028,51.986764623900001,0 -2.16416872526,51.986662836100002,0 -2.16478001923,51.986844081199997,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>IP7 9</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>0.953336066021,52.043662840300001,0 0.953711154956,52.043856008399999,0 0.953919339309,52.043872708099997,0 0.953946692587,52.043857099,0 0.953922029091,52.043547992500002,0 0.953655826187,52.043372910099997,0 0.953336066021,52.043662840300001,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>0.949789607277,52.047347064699998,0 0.948507014464,52.046290980099997,0 0.94850701327,52.0479391509,0 0.948250979452,52.048154673299997,0 0.948233809897,52.048260194400001,0 0.949988388327,52.048098944400003,0 0.950428057136,52.047863038300001,0 0.949789607277,52.047347064699998,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

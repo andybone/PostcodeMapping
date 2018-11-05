@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>BH19 9</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.95894265594,50.609451237,0 -1.95876114098,50.609348407799999,0 -1.95905126474,50.609137802900001,0 -1.9593220193,50.609162268399999,0 -1.95934588465,50.609362179900003,0 -1.95894265594,50.609451237,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

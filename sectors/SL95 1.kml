@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>SL95 1</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-0.534179939331,51.498005548400002,0 -0.533488711749,51.498285576599997,0 -0.531857173389,51.498229591899999,0 -0.53123952173,51.497705997300002,0 -0.5313365709,51.497275685300004,0 -0.534411948571,51.497242890700001,0 -0.534179939331,51.498005548400002,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

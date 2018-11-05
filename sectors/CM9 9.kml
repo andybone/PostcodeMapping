@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>CM9 9</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>0.680402774145,51.729174817100002,0 0.681420725241,51.729188262,0 0.6812739391,51.728905244499998,0 0.680725762532,51.728676612299999,0 0.680402774145,51.729174817100002,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>0.679740519717,51.729290666399997,0 0.680385319848,51.729174893100001,0 0.68049317206,51.728569755400002,0 0.680402249268,51.728491672300002,0 0.679991271502,51.728269109199999,0 0.67867709754,51.72807125,0 0.679740519717,51.729290666399997,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>0.67740698738,51.735036068900001,0 0.677837144998,51.734372727299998,0 0.677313272975,51.734193554299999,0 0.67630129183,51.734746336199997,0 0.67740698738,51.735036068900001,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>0.677489121538,51.735079518200003,0 0.678024510418,51.735398151600002,0 0.678000675229,51.734417234699997,0 0.677864314624,51.734380400100001,0 0.677489121538,51.735079518200003,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

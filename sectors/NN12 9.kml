@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>NN12 9</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-0.988733568712,52.1324438774,0 -0.988717811143,52.132488358499998,0 -0.987932814729,52.132587281900001,0 -0.987827199532,52.132002308499999,0 -0.988033581093,52.131974404099999,0 -0.98806615878,52.131995099900003,0 -0.988733568712,52.1324438774,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-0.99338246955,52.139381231800002,0 -0.993399201624,52.139623884099997,0 -0.991451169528,52.140586890500003,0 -0.990850888348,52.140130844799998,0 -0.990568148127,52.1393584936,0 -0.993295776317,52.139358479199998,0 -0.99338246955,52.139381231800002,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-1.00124498753,52.128451992099997,0 -1.00027990625,52.128106218600003,0 -1.00027592332,52.1280058647,0 -1.00124498755,52.127610427299999,0 -1.00124498753,52.128451992099997,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

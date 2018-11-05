@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>HP22 9</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-0.772562232842,51.7787823703,0 -0.769338155672,51.778632419799997,0 -0.768922005294,51.777966124800002,0 -0.769092726914,51.775327964299997,0 -0.769764487853,51.775091266899999,0 -0.772562232842,51.7787823703,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

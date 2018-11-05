@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>LE11 9</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-1.29725094483,52.762676308,0 -1.29759948449,52.761895138200003,0 -1.29786363675,52.761814255700003,0 -1.30023040691,52.762812180099999,0 -1.29987976896,52.763032691799999,0 -1.29892305404,52.763646996200002,0 -1.29774766484,52.763986903899998,0 -1.29691470049,52.763390248,0 -1.29725094483,52.762676308,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-1.20468671157,52.769127043200001,0 -1.20392589195,52.769503110099997,0 -1.20385221261,52.769034949,0 -1.20468671157,52.769127043200001,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

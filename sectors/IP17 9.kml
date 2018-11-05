@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>IP17 9</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>1.49175434057,52.216515423099999,0 1.49200618353,52.216701537200002,0 1.49232891634,52.216809406800003,0 1.49276878215,52.216571286600001,0 1.49337568507,52.215606815,0 1.49325786455,52.215607812599998,0 1.49175434057,52.216515423099999,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

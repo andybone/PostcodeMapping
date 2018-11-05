@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>SP4 5</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.73491070825,51.190120171399997,0 -1.73470925747,51.190040286600002,0 -1.73114508444,51.188615572499998,0 -1.73064656661,51.1844511197,0 -1.73066535302,51.1838615311,0 -1.73661070526,51.188466247400001,0 -1.7365979305,51.188610602,0 -1.73491070825,51.190120171399997,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

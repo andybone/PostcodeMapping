@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>AB41 1</name>
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-2.08553868756,57.366579729400001,0 -2.08546065802,57.366637262300003,0 -2.08223707304,57.3663862947,0 -2.0829986976,57.365740918699998,0 -2.084580076,57.365836007200002,0 -2.08537685977,57.366157039599997,0 -2.08553868756,57.366579729400001,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>

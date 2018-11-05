@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <name>FK1 9</name>
+    <Placemark>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-3.7841250737,56.002278523699999,0 -3.7840202657,56.002260086100002,0 -3.78373530704,56.001776404399997,0 -3.78434846826,56.0017230184,0 -3.78531104413,56.001757199700002,0 -3.7841250737,56.002278523699999,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-3.79334015451,56.001985740400002,0 -3.79183659344,56.002461873400001,0 -3.79176593137,56.002400161399997,0 -3.79259772559,56.000924369700002,0 -3.79339431155,56.001412116600001,0 -3.79334015451,56.001985740400002,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>
